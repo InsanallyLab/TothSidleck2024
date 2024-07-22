@@ -56,7 +56,7 @@ def getTrialSet(sessionfile,clust,listOfTrialSets,trialsPerDayLoaded=None):
     if trialsPerDayLoaded is None:
         try:
             #with open('/bgfs/balbanna/jmt195/trialsToUsePerDay', 'rb') as f:
-            with open('C:\\Users\\insan\\Desktop\\trialsToUsePerDay', 'rb') as f:
+            with open('..\\..\\Data\\trialsToUsePerDay', 'rb') as f:
             # with open('Z:\\JMT Data Cache\\trialsToUsePerDay','rb') as f:
                 trialsPerDayLoaded = pickle.load(f)
             active_trials = trialsPerDayLoaded[sessionfile.meta.animal][sessionfile.meta.day_of_training]
