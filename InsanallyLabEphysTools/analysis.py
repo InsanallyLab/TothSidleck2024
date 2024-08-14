@@ -829,7 +829,7 @@ def calculate_individual_contribution(cov_mat):
 # THE STANDARD ERROR OF A WEIGHTED MEAN CONCENTRATION-I. BOOTSTRAPPING VS OTHER METHODS
 
 def bootstrap_Mw_SEMw(FRmods,B=1000,n_frac=1,CR_NCR_thresh=3.5,hierarchical=False):
-    FRmods = np.array(FRmods)
+    FRmods = np.array(FRmods,dtype='object')
     mask = np.greater([len(l) for l in FRmods],0)
     FRmods = FRmods[mask]
     
@@ -866,11 +866,11 @@ def bootstrap_pc_NCR_test(X,Y,B=250000,CR_NCR_thresh=[3.5],hierarchical=False):
     #Saravanan et al.
     
     #Testing against the null hypothesis that these two groups are the same
-    X = np.array(X)
+    X = np.array(X,dtype='object')
     mask = np.greater([len(l) for l in X],0)
     X = X[mask]
     
-    Y = np.array(Y)
+    Y = np.array(Y,dtype='object')
     mask = np.greater([len(l) for l in Y],0)
     Y = Y[mask]
 
