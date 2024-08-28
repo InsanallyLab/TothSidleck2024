@@ -1,0 +1,813 @@
+,animal,session,cluster ID,phase,condition,FR modulation
+0,BS_108,BS_108_1_AC.pickle,2,pre expert,behaving,9.972451790633608
+1,BS_108,BS_108_1_AC.pickle,8,pre expert,behaving,21.7741935483871
+2,BS_108,BS_108_1_AC.pickle,9,pre expert,behaving,15.806451612903228
+3,BS_108,BS_108_1_AC.pickle,34,pre expert,behaving,16.989247311827963
+4,BS_108,BS_108_2_AC.pickle,2,pre expert,behaving,15.402298850574715
+5,BS_108,BS_108_2_AC.pickle,7,pre expert,behaving,6.321839080459773
+6,BS_108,BS_108_2_AC.pickle,26,pre expert,behaving,3.563218390804598
+7,BS_108,BS_108_6_AC.pickle,2,post early,behaving,3.446969696969696
+8,BS_108,BS_108_6_AC.pickle,9,post early,behaving,3.833333333333334
+9,BS_108,BS_108_6_AC.pickle,33,post early,behaving,3.2600732600732596
+10,BS_108,BS_108_6_AC.pickle,47,post early,behaving,15.825734549138806
+11,BS_108,BS_108_6_AC.pickle,48,post early,behaving,9.593869731800776
+12,BS_108,BS_108_6_AC.pickle,78,post early,behaving,1.313432835820895
+13,BS_108,BS_108_6_AC.pickle,79,post early,behaving,0.9201388888888884
+14,BS_108,BS_108_6_AC.pickle,126,post early,behaving,16.727272727272727
+15,BS_108,BS_108_6_AC.pickle,133,post early,behaving,6.099616858237546
+16,BS_40,BS_40_10_AC.pickle,5,pre late,behaving,5.855555555555559
+17,BS_40,BS_40_10_AC.pickle,12,pre late,behaving,1.2222222222222237
+18,BS_40,BS_40_12_AC.pickle,2,pre expert,behaving,3.647798742138366
+19,BS_40,BS_40_12_AC.pickle,29,pre expert,behaving,2.767295597484277
+20,BS_40,BS_40_12_AC.pickle,52,pre expert,behaving,7.169811320754717
+21,BS_40,BS_40_12_AC.pickle,56,pre expert,behaving,4.528301886792454
+22,BS_40,BS_40_15_AC.pickle,0,post early,behaving,1.2209302325581386
+23,BS_40,BS_40_16_AC.pickle,21,post early,behaving,27.48508098891727
+24,BS_40,BS_40_16_AC.pickle,35,post early,behaving,21.605691056910562
+25,BS_40,BS_40_2_AC.pickle,61,pre late,behaving,14.625850340136058
+26,BS_40,BS_40_2_AC.pickle,66,pre late,behaving,8.231292517006809
+27,BS_40,BS_40_2_AC.pickle,67,pre late,behaving,6.484848484848485
+28,BS_40,BS_40_2_AC.pickle,103,pre late,behaving,18.82653061224488
+29,BS_40,BS_40_2_AC.pickle,115,pre late,behaving,10.26365348399247
+30,BS_40,BS_40_2_AC.pickle,122,pre late,behaving,2.857142857142857
+31,BS_40,BS_40_2_AC.pickle,153,pre late,behaving,7.579365079365079
+32,BS_40,BS_40_2_AC.pickle,166,pre late,behaving,1.7176870748299329
+33,BS_40,BS_40_2_AC.pickle,194,pre late,behaving,11.326530612244886
+34,BS_40,BS_40_2_AC.pickle,195,pre late,behaving,10.850340136054427
+35,BS_40,BS_40_2_AC.pickle,201,pre late,behaving,3.0442176870748288
+36,BS_40,BS_40_2_AC.pickle,206,pre late,behaving,8.588435374149663
+37,BS_40,BS_40_2_AC.pickle,222,pre late,behaving,1.5257048092868986
+38,BS_40,BS_40_2_AC.pickle,225,pre late,behaving,28.21428571428572
+39,BS_40,BS_40_2_AC.pickle,231,pre late,behaving,2.857142857142857
+40,BS_40,BS_40_3_AC.pickle,14,pre late,behaving,11.430745814307462
+41,BS_40,BS_40_3_AC.pickle,15,pre late,behaving,14.961948249619475
+42,BS_40,BS_40_3_AC.pickle,33,pre late,behaving,2.5665101721439747
+43,BS_40,BS_40_3_AC.pickle,36,pre late,behaving,1.6151202749140892
+44,BS_40,BS_40_3_AC.pickle,57,pre late,behaving,13.850837138508362
+45,BS_40,BS_40_3_AC.pickle,76,pre late,behaving,1.1886304909560725
+46,BS_40,BS_40_3_AC.pickle,81,pre late,behaving,3.8051750380517504
+47,BS_40,BS_40_3_AC.pickle,114,pre late,behaving,15.34936998854525
+48,BS_40,BS_40_3_AC.pickle,151,pre late,behaving,1.4840182648401823
+49,BS_40,BS_40_3_AC.pickle,155,pre late,behaving,16.910197869101975
+50,BS_40,BS_40_4_AC.pickle,18,pre late,behaving,18.91472868217054
+51,BS_40,BS_40_4_AC.pickle,29,pre late,behaving,7.160000000000004
+52,BS_40,BS_40_6_AC.pickle,7,pre late,behaving,1.8697829716193657
+53,BS_40,BS_40_6_AC.pickle,11,pre late,behaving,2.370617696160264
+54,BS_40,BS_40_6_AC.pickle,15,pre late,behaving,15.859766277128557
+55,BS_40,BS_40_6_AC.pickle,27,pre late,behaving,1.8809126321647172
+56,BS_40,BS_40_7_AC.pickle,36,pre late,behaving,1.602288984263233
+57,BS_40,BS_40_8_AC.pickle,44,pre late,behaving,0.9642560266001666
+58,BS_41,BS_41_2_AC.pickle,23,post early,behaving,1.5532286212914481
+59,BS_41,BS_41_2_AC.pickle,52,post early,behaving,27.225130890052355
+60,BS_41,BS_41_2_AC.pickle,55,post early,behaving,5.543478260869565
+61,BS_41,BS_41_2_AC.pickle,155,post early,behaving,2.494004796163069
+62,BS_41,BS_41_2_AC.pickle,236,post early,behaving,5.222222222222222
+63,BS_41,BS_41_4_AC.pickle,6,post late,behaving,6.8956743002544485
+64,BS_41,BS_41_4_AC.pickle,19,post late,behaving,14.96183206106869
+65,BS_41,BS_41_4_AC.pickle,20,post late,behaving,3.1424936386768474
+66,BS_41,BS_41_4_AC.pickle,57,post late,behaving,12.60814249363868
+67,BS_41,BS_41_4_AC.pickle,64,post late,behaving,5.343511450381697
+68,BS_41,BS_41_4_AC.pickle,66,post late,behaving,4.147582697201017
+69,BS_41,BS_41_4_AC.pickle,84,post late,behaving,1.4376590330788803
+70,BS_41,BS_41_4_AC.pickle,95,post late,behaving,2.4300254452926198
+71,BS_41,BS_41_4_AC.pickle,97,post late,behaving,0.512820512820513
+72,BS_41,BS_41_4_AC.pickle,100,post late,behaving,0.9629629629629626
+73,BS_41,BS_41_4_AC.pickle,101,post late,behaving,7.137404580152674
+74,BS_41,BS_41_4_AC.pickle,115,post late,behaving,6.22137404580154
+75,BS_41,BS_41_4_AC.pickle,117,post late,behaving,9.707379134860044
+76,BS_41,BS_41_4_AC.pickle,119,post late,behaving,3.3842239185750564
+77,BS_41,BS_41_5_AC.pickle,13,post late,behaving,7.492354740061158
+78,BS_41,BS_41_5_AC.pickle,15,post late,behaving,2.587064676616916
+79,BS_41,BS_41_5_AC.pickle,68,post late,behaving,2.9226361031518597
+80,BS_41,BS_41_6_AC.pickle,3,post late,behaving,12.114093959731518
+81,BS_41,BS_41_6_AC.pickle,6,post late,behaving,0.5591397849462366
+82,BS_41,BS_41_6_AC.pickle,7,post late,behaving,7.483221476510067
+83,BS_41,BS_41_6_AC.pickle,32,post late,behaving,1.4100185528756946
+84,BS_41,BS_41_7_AC.pickle,0,post late,behaving,2.011494252873561
+85,BS_41,BS_41_7_AC.pickle,50,post late,behaving,1.3308913308913324
+86,BS_41,BS_41_7_AC.pickle,55,post late,behaving,1.3218390804597726
+87,BS_41,BS_41_7_AC.pickle,63,post late,behaving,1.6781609195402274
+88,BS_41,BS_41_7_AC.pickle,64,post late,behaving,3.9080459770115
+89,BS_41,BS_41_7_AC.pickle,73,post late,behaving,0.6226271829916474
+90,BS_41,BS_41_7_AC.pickle,81,post late,behaving,0.5865522174535049
+91,BS_41,BS_41_8_AC.pickle,13,post late,behaving,3.138173302107734
+92,BS_41,BS_41_8_AC.pickle,58,post late,behaving,1.616161616161617
+93,BS_41,BS_41_8_AC.pickle,60,post late,behaving,11.086142322097386
+94,BS_41,BS_41_8_AC.pickle,61,post late,behaving,10.087719298245611
+95,BS_41,BS_41_8_AC.pickle,66,post late,behaving,0.720000000000001
+96,BS_41,BS_41_8_AC.pickle,67,post late,behaving,1.5677321156773214
+97,BS_41,BS_41_8_AC.pickle,72,post late,behaving,1.6720257234726674
+98,BS_41,BS_41_8_AC.pickle,77,post late,behaving,7.253333333333332
+99,BS_41,BS_41_8_AC.pickle,82,post late,behaving,4.712371946414507
+100,BS_41,BS_41_9_AC.pickle,24,post late,behaving,2.9457364341085293
+101,BS_41,BS_41_9_AC.pickle,37,post late,behaving,20.890493381468115
+102,BS_41,BS_41_9_AC.pickle,101,post late,behaving,1.4555555555555566
+103,BS_41,BS_41_9_AC.pickle,109,post late,behaving,3.5777777777777753
+104,BS_42,BS_42_10_AC.pickle,8,post expert,behaving,4.253393665158373
+105,BS_42,BS_42_10_AC.pickle,10,post expert,behaving,4.645550527903469
+106,BS_42,BS_42_10_AC.pickle,18,post expert,behaving,2.9141716566866256
+107,BS_42,BS_42_10_AC.pickle,26,post expert,behaving,15.656108597285073
+108,BS_42,BS_42_11_AC.pickle,44,post expert,behaving,41.99513381995131
+109,BS_42,BS_42_2_AC.pickle,8,post early,behaving,26.400000000000002
+110,BS_42,BS_42_2_AC.pickle,9,post early,behaving,3.727422003284073
+111,BS_42,BS_42_2_AC.pickle,12,post early,behaving,17.21333333333333
+112,BS_42,BS_42_2_AC.pickle,14,post early,behaving,50.14666666666665
+113,BS_42,BS_42_2_AC.pickle,15,post early,behaving,2.0800000000000036
+114,BS_42,BS_42_2_AC.pickle,16,post early,behaving,65.78666666666653
+115,BS_42,BS_42_2_AC.pickle,54,post early,behaving,16.600000000000005
+116,BS_42,BS_42_2_AC.pickle,61,post early,behaving,8.893333333333334
+117,BS_42,BS_42_2_AC.pickle,62,post early,behaving,4.186666666666664
+118,BS_42,BS_42_2_AC.pickle,64,post early,behaving,6.693333333333342
+119,BS_42,BS_42_2_AC.pickle,82,post early,behaving,19.83999999999999
+120,BS_42,BS_42_2_AC.pickle,85,post early,behaving,47.17333333333328
+121,BS_42,BS_42_2_AC.pickle,86,post early,behaving,22.45333333333335
+122,BS_42,BS_42_2_AC.pickle,131,post early,behaving,1.3199999999999996
+123,BS_42,BS_42_3_AC.pickle,26,post early,behaving,2.0333333333333306
+124,BS_42,BS_42_3_AC.pickle,27,post early,behaving,1.9455252918287929
+125,BS_42,BS_42_3_AC.pickle,47,post early,behaving,2.103448275862068
+126,BS_42,BS_42_3_AC.pickle,56,post early,behaving,5.7333333333333405
+127,BS_42,BS_42_3_AC.pickle,96,post early,behaving,14.34878587196468
+128,BS_42,BS_42_3_AC.pickle,101,post early,behaving,0.8659793814432997
+129,BS_42,BS_42_4_AC.pickle,36,post early,behaving,3.3274544385655545
+130,BS_42,BS_42_4_AC.pickle,40,post early,behaving,42.947845804988646
+131,BS_42,BS_42_4_AC.pickle,41,post early,behaving,38.7802313354363
+132,BS_42,BS_42_4_AC.pickle,61,post early,behaving,8.874868559411139
+133,BS_42,BS_42_4_AC.pickle,65,post early,behaving,2.660882140274765
+134,BS_42,BS_42_5_AC.pickle,33,post early,behaving,23.386666666666667
+135,BS_42,BS_42_6_AC.pickle,26,post late,behaving,13.411111111111072
+136,BS_42,BS_42_6_AC.pickle,48,post late,behaving,6.8777777777777915
+137,BS_42,BS_42_6_AC.pickle,76,post late,behaving,0.26402640264026406
+138,BS_42,BS_42_7_AC.pickle,25,post late,behaving,3.076923076923086
+139,BS_42,BS_42_7_AC.pickle,35,post late,behaving,3.4888888888888885
+140,BS_42,BS_42_7_AC.pickle,42,post late,behaving,5.966666666666689
+141,BS_42,BS_42_7_AC.pickle,46,post late,behaving,0.9000000000000008
+142,BS_42,BS_42_7_AC.pickle,49,post late,behaving,0.8937198067632863
+143,BS_42,BS_42_7_AC.pickle,52,post late,behaving,1.9835680751173703
+144,BS_42,BS_42_7_AC.pickle,53,post late,behaving,0.5000000000000002
+145,BS_42,BS_42_7_AC.pickle,64,post late,behaving,0.7333333333333332
+146,BS_42,BS_42_7_AC.pickle,65,post late,behaving,1.4000000000000012
+147,BS_42,BS_42_7_AC.pickle,66,post late,behaving,0.8333333333333334
+148,BS_42,BS_42_7_AC.pickle,71,post late,behaving,2.2098765432098806
+149,BS_42,BS_42_7_AC.pickle,72,post late,behaving,3.3999999999999977
+150,BS_42,BS_42_7_AC.pickle,84,post late,behaving,0.8444444444444444
+151,BS_42,BS_42_7_AC.pickle,89,post late,behaving,1.2345679012345678
+152,BS_42,BS_42_7_AC.pickle,93,post late,behaving,3.9080459770114935
+153,BS_42,BS_42_7_AC.pickle,100,post late,behaving,32.87449392712553
+154,BS_42,BS_42_7_AC.pickle,119,post late,behaving,0.7888888888888897
+155,BS_42,BS_42_8_AC.pickle,13,post expert,behaving,5.114942528735632
+156,BS_42,BS_42_9_AC.pickle,32,post expert,behaving,3.1630170316301696
+157,BS_49,BS_49_12_AC.pickle,6,pre expert,behaving,1.2121212121212117
+158,BS_49,BS_49_12_AC.pickle,10,pre expert,behaving,10.3030303030303
+159,BS_49,BS_49_12_AC.pickle,13,pre expert,behaving,4.646464646464645
+160,BS_49,BS_49_12_AC.pickle,22,pre expert,behaving,3.3131313131313127
+161,BS_49,BS_49_12_AC.pickle,39,pre expert,behaving,3.7575757575757582
+162,BS_49,BS_49_12_AC.pickle,49,pre expert,behaving,0.6464646464646466
+163,BS_49,BS_49_14_AC.pickle,16,post late,behaving,0.7246376811594224
+164,BS_49,BS_49_16_AC.pickle,10,post expert,behaving,4.4808743169398895
+165,BS_49,BS_49_1_AC.pickle,6,pre early,behaving,23.1616982836495
+166,BS_49,BS_49_1_AC.pickle,152,pre early,behaving,0.9936766034326998
+167,BS_49,BS_49_2_AC.pickle,6,pre early,behaving,4.17254901960784
+168,BS_49,BS_49_2_AC.pickle,11,pre early,behaving,4.188235294117644
+169,BS_49,BS_49_2_AC.pickle,12,pre early,behaving,17.731481481481474
+170,BS_49,BS_49_2_AC.pickle,31,pre early,behaving,11.921568627450982
+171,BS_49,BS_49_2_AC.pickle,47,pre early,behaving,10.149019607843137
+172,BS_49,BS_49_4_AC.pickle,9,pre early,behaving,27.799999999999997
+173,BS_49,BS_49_4_AC.pickle,14,pre early,behaving,18.933333333333323
+174,BS_49,BS_49_4_AC.pickle,16,pre early,behaving,13.533333333333333
+175,BS_49,BS_49_4_AC.pickle,27,pre early,behaving,13.533333333333328
+176,BS_49,BS_49_4_AC.pickle,28,pre early,behaving,1.4
+177,BS_49,BS_49_4_AC.pickle,35,pre early,behaving,29.000000000000004
+178,BS_49,BS_49_4_AC.pickle,36,pre early,behaving,5.9333333333333345
+179,BS_49,BS_49_4_AC.pickle,45,pre early,behaving,17.599999999999994
+180,BS_49,BS_49_4_AC.pickle,46,pre early,behaving,22.866666666666656
+181,BS_49,BS_49_4_AC.pickle,53,pre early,behaving,34.66666666666667
+182,BS_49,BS_49_4_AC.pickle,55,pre early,behaving,3.066666666666667
+183,BS_49,BS_49_4_AC.pickle,56,pre early,behaving,16.20000000000001
+184,BS_49,BS_49_4_AC.pickle,68,pre early,behaving,16.199999999999992
+185,BS_49,BS_49_4_AC.pickle,71,pre early,behaving,2.4000000000000004
+186,BS_49,BS_49_4_AC.pickle,73,pre early,behaving,12.4
+187,BS_49,BS_49_7_AC.pickle,2,pre late,behaving,4.8717948717948705
+188,BS_49,BS_49_9_AC.pickle,18,pre late,behaving,17.622549019607856
+189,BS_50,BS_50_2_AC.pickle,2,pre early,behaving,8.217054263565892
+190,BS_50,BS_50_2_AC.pickle,14,pre early,behaving,13.901808785529713
+191,BS_50,BS_50_2_AC.pickle,23,pre early,behaving,4.702842377260982
+192,BS_50,BS_50_2_AC.pickle,35,pre early,behaving,27.338501291989672
+193,BS_50,BS_50_2_AC.pickle,79,pre early,behaving,3.049095607235142
+194,BS_50,BS_50_2_AC.pickle,83,pre early,behaving,2.8940568475452197
+195,BS_50,BS_50_2_AC.pickle,88,pre early,behaving,2.790697674418605
+196,BS_50,BS_50_3_AC.pickle,0,pre early,behaving,17.733333333333338
+197,BS_50,BS_50_3_AC.pickle,3,pre early,behaving,65.79047619047616
+198,BS_50,BS_50_3_AC.pickle,11,pre early,behaving,11.714285714285712
+199,BS_50,BS_50_3_AC.pickle,16,pre early,behaving,3.6571428571428584
+200,BS_50,BS_50_3_AC.pickle,21,pre early,behaving,6.553030303030304
+201,BS_50,BS_50_3_AC.pickle,34,pre early,behaving,9.31428571428572
+202,BS_50,BS_50_3_AC.pickle,41,pre early,behaving,37.3904761904762
+203,BS_50,BS_50_3_AC.pickle,45,pre early,behaving,7.0132517838939865
+204,BS_56,BS_56_1_AC.pickle,3,post expert,behaving,4.94505494505495
+205,BS_56,BS_56_1_AC.pickle,14,post expert,behaving,0.952380952380952
+206,BS_56,BS_56_2_AC.pickle,9,post expert,behaving,4.210526315789474
+207,BS_56,BS_56_3_AC.pickle,7,post expert,behaving,0.5833333333333336
+208,BS_56,BS_56_3_AC.pickle,10,post expert,behaving,1.1333333333333346
+209,BS_56,BS_56_3_AC.pickle,13,post expert,behaving,0.6666666666666672
+210,BS_56,BS_56_3_AC.pickle,20,post expert,behaving,0.7500000000000001
+211,BS_56,BS_56_3_AC.pickle,35,post expert,behaving,4.383333333333336
+212,BS_67,BS_67_1_AC.pickle,10,post late,behaving,1.9209039548022588
+213,BS_67,BS_67_1_AC.pickle,16,post late,behaving,4.957264957264958
+214,BS_67,BS_67_1_AC.pickle,19,post late,behaving,17.858880778588805
+215,BS_67,BS_67_1_AC.pickle,55,post late,behaving,14.684095860566448
+216,BS_67,BS_67_1_AC.pickle,59,post late,behaving,7.999999999999997
+217,BS_67,BS_67_2_AC.pickle,1,post expert,behaving,1.8741633199464525
+218,BS_70,BS_70_11_AC.pickle,14,post late,behaving,2.55208333333333
+219,BS_70,BS_70_11_AC.pickle,18,post late,behaving,1.3888888888888886
+220,BS_70,BS_70_11_AC.pickle,24,post late,behaving,0.8536585365853661
+221,BS_70,BS_70_11_AC.pickle,32,post late,behaving,3.802083333333332
+222,BS_70,BS_70_12_AC.pickle,5,post late,behaving,1.5359477124183
+223,BS_70,BS_70_12_AC.pickle,6,post late,behaving,3.1243781094527345
+224,BS_70,BS_70_12_AC.pickle,19,post late,behaving,2.0080321285140563
+225,BS_70,BS_70_12_AC.pickle,20,post late,behaving,2.5120772946859904
+226,BS_70,BS_70_13_AC.pickle,18,post expert,behaving,5.070785070785068
+227,BS_70,BS_70_1_AC.pickle,1,pre late,behaving,12.5626204238921
+228,BS_70,BS_70_1_AC.pickle,2,pre late,behaving,2.303921568627451
+229,BS_70,BS_70_1_AC.pickle,13,pre late,behaving,35.87668593448939
+230,BS_70,BS_70_1_AC.pickle,37,pre late,behaving,5.703275529865122
+231,BS_70,BS_70_1_AC.pickle,66,pre late,behaving,2.54335260115607
+232,BS_70,BS_70_1_AC.pickle,69,pre late,behaving,3.622350674373795
+233,BS_70,BS_70_1_AC.pickle,73,pre late,behaving,2.157996146435452
+234,BS_70,BS_70_1_AC.pickle,74,pre late,behaving,1.0019267822736033
+235,BS_70,BS_70_1_AC.pickle,77,pre late,behaving,2.3655913978494625
+236,BS_70,BS_70_1_AC.pickle,80,pre late,behaving,0.6165703275529867
+237,BS_70,BS_70_1_AC.pickle,88,pre late,behaving,0.6936416184971098
+238,BS_70,BS_70_1_AC.pickle,91,pre late,behaving,1.618497109826588
+239,BS_70,BS_70_1_AC.pickle,127,pre late,behaving,4.93256262042389
+240,BS_70,BS_70_1_AC.pickle,141,pre late,behaving,3.275529865125243
+241,BS_70,BS_70_5_AC.pickle,0,post early,behaving,5.659259259259257
+242,BS_70,BS_70_5_AC.pickle,10,post early,behaving,8.271872740419377
+243,BS_70,BS_70_6_AC.pickle,37,post early,behaving,1.9688109161793423
+244,BS_70,BS_70_6_AC.pickle,51,post early,behaving,1.7329255861365935
+245,BS_70,BS_70_6_AC.pickle,68,post early,behaving,2.8134556574923537
+246,BS_70,BS_70_7_AC.pickle,22,post late,behaving,11.711711711711708
+247,BS_70,BS_70_7_AC.pickle,45,post late,behaving,7.631578947368415
+248,BS_70,BS_70_8_AC.pickle,1,post late,behaving,3.039014373716636
+249,BS_70,BS_70_8_AC.pickle,18,post late,behaving,1.3689253935660464
+250,BS_70,BS_70_8_AC.pickle,20,post late,behaving,3.737166324435318
+251,BS_70,BS_70_8_AC.pickle,21,post late,behaving,13.699788583509507
+252,BS_70,BS_70_8_AC.pickle,28,post late,behaving,1.5958240119313933
+253,BS_70,BS_70_8_AC.pickle,36,post late,behaving,2.2771535580524342
+254,BS_70,BS_70_8_AC.pickle,42,post late,behaving,2.4914442162902133
+255,BS_70,BS_70_8_AC.pickle,48,post late,behaving,10.363984674329505
+256,BS_70,BS_70_8_AC.pickle,52,post late,behaving,0.5065023956194391
+257,BS_70,BS_70_9_AC.pickle,9,post late,behaving,2.565400843881853
+258,BS_70,BS_70_9_AC.pickle,41,post late,behaving,0.8934707903780075
+259,BS_70,BS_70_9_AC.pickle,48,post late,behaving,6.0903426791277235
+260,BS_70,BS_70_9_AC.pickle,56,post late,behaving,10.999160369437451
+261,BS_72,BS_72_10_AC.pickle,18,post late,behaving,13.402061855670107
+262,BS_72,BS_72_13_AC.pickle,0,post late,behaving,1.321713870733477
+263,BS_72,BS_72_13_AC.pickle,6,post late,behaving,4.671916010498688
+264,BS_72,BS_72_13_AC.pickle,10,post late,behaving,7.267759562841531
+265,BS_72,BS_72_1_AC.pickle,0,pre expert,behaving,12.38546603475514
+266,BS_72,BS_72_1_AC.pickle,5,pre expert,behaving,3.34913112164297
+267,BS_72,BS_72_1_AC.pickle,24,pre expert,behaving,1.579778830963664
+268,BS_72,BS_72_1_AC.pickle,30,pre expert,behaving,12.922590837282781
+269,BS_72,BS_72_1_AC.pickle,38,pre expert,behaving,5.5924170616113775
+270,BS_72,BS_72_2_AC.pickle,1,pre expert,behaving,2.8947368421052637
+271,BS_72,BS_72_2_AC.pickle,3,pre expert,behaving,22.588235294117645
+272,BS_72,BS_72_2_AC.pickle,7,pre expert,behaving,6.627450980392157
+273,BS_72,BS_72_2_AC.pickle,8,pre expert,behaving,2.470588235294118
+274,BS_72,BS_72_2_AC.pickle,17,pre expert,behaving,6.039215686274509
+275,BS_72,BS_72_2_AC.pickle,19,pre expert,behaving,12.470588235294118
+276,BS_72,BS_72_2_AC.pickle,26,pre expert,behaving,1.9607843137254903
+277,BS_72,BS_72_2_AC.pickle,52,pre expert,behaving,4.9350649350649345
+278,BS_72,BS_72_4_AC.pickle,7,post early,behaving,2.019607843137254
+279,BS_72,BS_72_4_AC.pickle,12,post early,behaving,1.1054421768707474
+280,BS_72,BS_72_4_AC.pickle,44,post early,behaving,4.075117370892018
+281,BS_72,BS_72_4_AC.pickle,46,post early,behaving,7.562189054726367
+282,BS_72,BS_72_4_AC.pickle,54,post early,behaving,10.068027210884367
+283,BS_72,BS_72_4_AC.pickle,55,post early,behaving,31.238938053097336
+284,BS_72,BS_72_4_AC.pickle,70,post early,behaving,18.323108384458077
+285,BS_72,BS_72_4_AC.pickle,115,post early,behaving,29.14965986394558
+286,BS_72,BS_72_5_AC.pickle,0,post late,behaving,3.1643625192012292
+287,BS_72,BS_72_5_AC.pickle,10,post late,behaving,39.34666666666668
+288,BS_72,BS_72_5_AC.pickle,36,post late,behaving,20.210970464135016
+289,BS_72,BS_72_5_AC.pickle,42,post late,behaving,35.62666666666672
+290,BS_72,BS_72_5_AC.pickle,54,post late,behaving,0.9322033898305085
+291,BS_72,BS_72_6_AC.pickle,12,post late,behaving,2.866666666666672
+292,BS_72,BS_72_6_AC.pickle,13,post late,behaving,2.72
+293,BS_72,BS_72_6_AC.pickle,14,post late,behaving,4.483430799220272
+294,BS_72,BS_72_6_AC.pickle,23,post late,behaving,11.053333333333326
+295,BS_72,BS_72_6_AC.pickle,26,post late,behaving,11.373333333333322
+296,BS_72,BS_72_6_AC.pickle,27,post late,behaving,7.605409705648372
+297,BS_72,BS_72_6_AC.pickle,28,post late,behaving,2.960000000000004
+298,BS_72,BS_72_6_AC.pickle,31,post late,behaving,8.69333333333334
+299,BS_72,BS_72_6_AC.pickle,32,post late,behaving,2.7188081936685298
+300,BS_72,BS_72_6_AC.pickle,40,post late,behaving,21.863799283154098
+301,BS_72,BS_72_6_AC.pickle,41,post late,behaving,5.613333333333349
+302,BS_72,BS_72_6_AC.pickle,57,post late,behaving,3.713768115942031
+303,BS_72,BS_72_6_AC.pickle,61,post late,behaving,9.069373942470387
+304,BS_72,BS_72_6_AC.pickle,65,post late,behaving,2.0788530465949817
+305,BS_72,BS_72_7_AC.pickle,12,post late,behaving,1.0836277974087158
+306,BS_72,BS_72_7_AC.pickle,14,post late,behaving,17.723132969034598
+307,BS_72,BS_72_7_AC.pickle,15,post late,behaving,5.373406193078319
+308,BS_72,BS_72_7_AC.pickle,16,post late,behaving,13.806921675774136
+309,BS_72,BS_72_7_AC.pickle,33,post late,behaving,50.692167577413485
+310,BS_72,BS_72_8_AC.pickle,5,post late,behaving,11.756978653530378
+311,BS_72,BS_72_8_AC.pickle,10,post late,behaving,31.724137931034477
+312,BS_72,BS_72_8_AC.pickle,23,post late,behaving,8.243021346469627
+313,BS_72,BS_72_9_AC.pickle,8,post late,behaving,10.048309178743963
+314,BS_72,BS_72_9_AC.pickle,11,post late,behaving,4.806763285024148
+315,BS_87,BS_87_10_AC.pickle,4,post expert,behaving,7.348484848484848
+316,BS_87,BS_87_11_AC.pickle,1,post expert,behaving,0.6403013182674195
+317,BS_87,BS_87_11_AC.pickle,4,post expert,behaving,5.68738229755179
+318,BS_87,BS_87_1_AC.pickle,7,pre expert,behaving,3.197831978319783
+319,BS_87,BS_87_1_AC.pickle,12,pre expert,behaving,29.97289972899729
+320,BS_87,BS_87_1_AC.pickle,30,pre expert,behaving,1.8970189701897027
+321,BS_87,BS_87_1_AC.pickle,39,pre expert,behaving,67.80487804878047
+322,BS_87,BS_87_2_AC.pickle,25,pre expert,behaving,28.447837150127228
+323,BS_87,BS_87_4_AC.pickle,3,post early,behaving,25.031446540880523
+324,BS_87,BS_87_4_AC.pickle,15,post early,behaving,4.685534591194957
+325,BS_87,BS_87_4_AC.pickle,18,post early,behaving,5.424528301886788
+326,BS_87,BS_87_4_AC.pickle,19,post early,behaving,2.9874213836478005
+327,BS_87,BS_87_4_AC.pickle,26,post early,behaving,33.738848337388504
+328,BS_87,BS_87_4_AC.pickle,27,post early,behaving,23.09748427672956
+329,BS_87,BS_87_4_AC.pickle,33,post early,behaving,3.0660377358490445
+330,BS_87,BS_87_4_AC.pickle,34,post early,behaving,22.123142250530776
+331,BS_87,BS_87_4_AC.pickle,38,post early,behaving,23.238993710691823
+332,BS_87,BS_87_4_AC.pickle,44,post early,behaving,21.63934426229508
+333,BS_87,BS_87_4_AC.pickle,45,post early,behaving,5.786163522012576
+334,BS_87,BS_87_4_AC.pickle,57,post early,behaving,31.69811320754721
+335,BS_87,BS_87_4_AC.pickle,73,post early,behaving,18.3018867924528
+336,BS_87,BS_87_4_AC.pickle,74,post early,behaving,7.738478027867095
+337,BS_87,BS_87_4_AC.pickle,80,post early,behaving,9.066666666666668
+338,BS_87,BS_87_4_AC.pickle,82,post early,behaving,15.297619047619047
+339,BS_87,BS_87_4_AC.pickle,115,post early,behaving,28.467309753483388
+340,BS_87,BS_87_4_AC.pickle,124,post early,behaving,1.3153153153153143
+341,BS_87,BS_87_4_AC.pickle,141,post early,behaving,16.58805031446541
+342,BS_87,BS_87_4_AC.pickle,162,post early,behaving,11.132075471698109
+343,BS_87,BS_87_4_AC.pickle,172,post early,behaving,7.169811320754737
+344,BS_87,BS_87_4_AC.pickle,187,post early,behaving,24.64285714285714
+345,BS_87,BS_87_4_AC.pickle,211,post early,behaving,7.844311377245513
+346,BS_87,BS_87_4_AC.pickle,219,post early,behaving,6.338797814207649
+347,BS_87,BS_87_5_AC.pickle,7,post early,behaving,11.471758154335719
+348,BS_87,BS_87_5_AC.pickle,11,post early,behaving,2.9912490055688106
+349,BS_87,BS_87_5_AC.pickle,14,post early,behaving,5.218774860779645
+350,BS_87,BS_87_5_AC.pickle,35,post early,behaving,3.9140811455847233
+351,BS_87,BS_87_5_AC.pickle,37,post early,behaving,3.3731105807478103
+352,BS_87,BS_87_5_AC.pickle,47,post early,behaving,10.857699805068227
+353,BS_87,BS_87_5_AC.pickle,49,post early,behaving,25.266666666666662
+354,BS_87,BS_87_5_AC.pickle,83,post early,behaving,18.806682577565628
+355,BS_87,BS_87_5_AC.pickle,87,post early,behaving,17.056483691328552
+356,BS_87,BS_87_5_AC.pickle,93,post early,behaving,15.672235481304691
+357,BS_87,BS_87_5_AC.pickle,99,post early,behaving,31.680290644868304
+358,BS_87,BS_87_5_AC.pickle,101,post early,behaving,7.128082736674625
+359,BS_87,BS_87_6_AC.pickle,44,post early,behaving,4.934383202099737
+360,BS_87,BS_87_8_AC.pickle,1,post late,behaving,2.9571984435797676
+361,BS_87,BS_87_8_AC.pickle,2,post late,behaving,0.6560846560846563
+362,BS_87,BS_87_8_AC.pickle,11,post late,behaving,0.9124767225325885
+363,BS_87,BS_87_8_AC.pickle,45,post late,behaving,9.925512104283085
+364,BS_87,BS_87_8_AC.pickle,66,post late,behaving,0.6553672316384178
+365,BS_87,BS_87_9_AC.pickle,3,post late,behaving,1.171875000000001
+366,BS_87,BS_87_9_AC.pickle,4,post late,behaving,0.7956104252400539
+367,BS_87,BS_87_9_AC.pickle,6,post late,behaving,1.1709601873536302
+368,BS_87,BS_87_9_AC.pickle,27,post late,behaving,1.5749235474006134
+369,BS_87,BS_87_9_AC.pickle,46,post late,behaving,0.5756731662024147
+370,BS_87,BS_87_9_AC.pickle,60,post late,behaving,1.430745814307458
+371,BS_87,BS_87_9_AC.pickle,87,post late,behaving,0.5787037037037044
+372,BS_87,BS_87_9_AC.pickle,131,post late,behaving,1.221964423820572
+373,BS_87,BS_87_9_AC.pickle,135,post late,behaving,1.0678210678210664
+374,DS_15,DS_15_14_AC.pickle,31,post expert,behaving,12.597701149425287
+375,DS_15,DS_15_14_AC.pickle,36,post expert,behaving,5.011494252873567
+376,DS_15,DS_15_14_AC.pickle,41,post expert,behaving,10.666666666666663
+377,DS_15,DS_15_14_AC.pickle,44,post expert,behaving,18.896551724137936
+378,DS_15,DS_15_14_AC.pickle,52,post expert,behaving,10.482758620689644
+379,DS_15,DS_15_14_AC.pickle,58,post expert,behaving,10.89655172413793
+380,DS_15,DS_15_14_AC.pickle,59,post expert,behaving,2.0229885057471244
+381,DS_15,DS_15_14_AC.pickle,65,post expert,behaving,2.8965517241379257
+382,DS_15,DS_15_14_AC.pickle,66,post expert,behaving,5.885057471264375
+383,DS_15,DS_15_14_AC.pickle,73,post expert,behaving,0.41379310344827586
+384,DS_15,DS_15_14_AC.pickle,84,post expert,behaving,1.7931034482758625
+385,DS_15,DS_15_14_AC.pickle,114,post expert,behaving,16.32183908045977
+386,DS_15,DS_15_14_AC.pickle,137,post expert,behaving,1.241379310344828
+387,DS_15,DS_15_14_AC.pickle,146,post expert,behaving,3.4482758620689644
+388,DS_15,DS_15_15_AC.pickle,0,post expert,behaving,3.9393939393939403
+389,DS_15,DS_15_15_AC.pickle,6,post expert,behaving,30.688705234159762
+390,DS_15,DS_15_15_AC.pickle,7,post expert,behaving,2.033333333333335
+391,DS_15,DS_15_15_AC.pickle,10,post expert,behaving,3.3884297520661173
+392,DS_15,DS_15_15_AC.pickle,12,post expert,behaving,8.870523415977955
+393,DS_15,DS_15_15_AC.pickle,28,post expert,behaving,2.6446280991735525
+394,DS_15,DS_15_15_AC.pickle,29,post expert,behaving,3.2782369146005497
+395,DS_15,DS_15_15_AC.pickle,36,post expert,behaving,3.608815426997243
+396,DS_15,DS_15_15_AC.pickle,46,post expert,behaving,1.460055096418733
+397,DS_15,DS_15_15_AC.pickle,66,post expert,behaving,6.363636363636362
+398,DS_15,DS_15_15_AC.pickle,78,post expert,behaving,5.344352617079895
+399,DS_15,DS_15_15_AC.pickle,88,post expert,behaving,3.0303030303030316
+400,DS_15,DS_15_15_AC.pickle,111,post expert,behaving,1.9283746556473833
+401,DS_15,DS_15_15_AC.pickle,113,post expert,behaving,12.28650137741047
+402,DS_15,DS_15_16_AC.pickle,17,post expert,behaving,3.454345434543459
+403,DS_15,DS_15_16_AC.pickle,23,post expert,behaving,20.330033003300322
+404,DS_15,DS_15_16_AC.pickle,26,post expert,behaving,17.469746974697454
+405,DS_15,DS_15_16_AC.pickle,27,post expert,behaving,6.138613861386135
+406,DS_15,DS_15_16_AC.pickle,32,post expert,behaving,6.2926292629262734
+407,DS_15,DS_15_16_AC.pickle,35,post expert,behaving,1.8701870187018705
+408,DS_15,DS_15_16_AC.pickle,38,post expert,behaving,2.9702970297029694
+409,DS_15,DS_15_16_AC.pickle,40,post expert,behaving,3.1023102310231043
+410,DS_15,DS_15_16_AC.pickle,48,post expert,behaving,7.524752475247523
+411,DS_15,DS_15_16_AC.pickle,68,post expert,behaving,8.444444444444443
+412,DS_15,DS_15_16_AC.pickle,69,post expert,behaving,13.962804005722464
+413,DS_15,DS_15_16_AC.pickle,72,post expert,behaving,1.8041804180418053
+414,DS_15,DS_15_16_AC.pickle,73,post expert,behaving,1.8921892189218927
+415,DS_15,DS_15_16_AC.pickle,77,post expert,behaving,90.45104510451036
+416,DS_15,DS_15_17_AC.pickle,0,post expert,behaving,2.258953168044077
+417,DS_15,DS_15_17_AC.pickle,15,post expert,behaving,4.022038567493117
+418,DS_15,DS_15_17_AC.pickle,28,post expert,behaving,1.871345029239766
+419,DS_15,DS_15_17_AC.pickle,54,post expert,behaving,2.4517906336088164
+420,DS_15,DS_15_1_AC.pickle,3,pre expert,behaving,7.025948103792412
+421,DS_15,DS_15_1_AC.pickle,5,pre expert,behaving,5.029940119760474
+422,DS_15,DS_15_1_AC.pickle,22,pre expert,behaving,3.5129740518962067
+423,DS_15,DS_15_1_AC.pickle,46,pre expert,behaving,11.976047904191617
+424,DS_15,DS_15_1_AC.pickle,49,pre expert,behaving,3.512974051896207
+425,DS_15,DS_15_1_AC.pickle,52,pre expert,behaving,2.355289421157685
+426,DS_15,DS_15_1_AC.pickle,59,pre expert,behaving,6.107784431137721
+427,DS_15,DS_15_1_AC.pickle,81,pre expert,behaving,3.1936127744510974
+428,DS_15,DS_15_1_AC.pickle,87,pre expert,behaving,56.287425149700596
+429,DS_19,DS_19_18_AC.pickle,4,post expert,behaving,1.6969696969696966
+430,DS_19,DS_19_18_AC.pickle,6,post expert,behaving,1.4787878787878799
+431,DS_19,DS_19_18_AC.pickle,10,post expert,behaving,10.5939393939394
+432,DS_19,DS_19_18_AC.pickle,30,post expert,behaving,1.818181818181817
+433,DS_19,DS_19_19_AC.pickle,2,post expert,behaving,8.825396825396819
+434,DS_19,DS_19_19_AC.pickle,21,post expert,behaving,35.269841269841265
+435,DS_19,DS_19_19_AC.pickle,27,post expert,behaving,3.1746031746031784
+436,DS_19,DS_19_19_AC.pickle,38,post expert,behaving,1.0158730158730158
+437,DS_19,DS_19_19_AC.pickle,42,post expert,behaving,12.126984126984127
+438,DS_19,DS_19_19_AC.pickle,45,post expert,behaving,1.501831501831502
+439,DS_19,DS_19_1_AC.pickle,12,pre expert,behaving,0.3921568627450981
+440,DS_19,DS_19_1_AC.pickle,14,pre expert,behaving,0.7092198581560281
+441,DS_19,DS_19_1_AC.pickle,15,pre expert,behaving,0.4232804232804235
+442,DS_19,DS_19_1_AC.pickle,41,pre expert,behaving,6.619385342789598
+443,DS_19,DS_19_1_AC.pickle,68,pre expert,behaving,3.2151300236406586
+444,DS_19,DS_19_1_AC.pickle,96,pre expert,behaving,2.54606365159129
+445,DS_19,DS_19_20_AC.pickle,7,post expert,behaving,3.6614853195164114
+446,DS_19,DS_19_20_AC.pickle,8,post expert,behaving,2.867012089810018
+447,DS_19,DS_19_20_AC.pickle,14,post expert,behaving,4.939550949913645
+448,AE_229,AE_229_1_passive_AC.pickle,0,5,passive,27.757936507936506
+449,AE_229,AE_229_1_passive_AC.pickle,9,5,passive,10.485762144053616
+450,AE_229,AE_229_1_passive_AC.pickle,25,5,passive,33.95309882747072
+451,AE_229,AE_229_1_passive_AC.pickle,45,5,passive,4.103852596314908
+452,AE_229,AE_229_1_passive_AC.pickle,64,5,passive,61.27303182579564
+453,AE_229,AE_229_1_passive_AC.pickle,156,5,passive,29.815745393634888
+454,AE_229,AE_229_1_passive_AC.pickle,189,5,passive,6.1306532663316595
+455,AE_229,AE_229_1_passive_AC.pickle,308,5,passive,8.38541666666667
+456,AE_229,AE_229_1_passive_AC.pickle,345,5,passive,8.693467336683417
+457,AE_229,AE_229_1_passive_AC.pickle,346,5,passive,0.6700167504187601
+458,AE_229,AE_229_2_passive_AC.pickle,42,6,passive,18.30820770519263
+459,AE_229,AE_229_2_passive_AC.pickle,59,6,passive,1.9008264462809914
+460,AE_229,AE_229_2_passive_AC.pickle,141,6,passive,6.61641541038526
+461,AE_229,AE_229_2_passive_AC.pickle,151,6,passive,20.402010050251235
+462,AE_229,AE_229_2_passive_AC.pickle,156,6,passive,5.8291457286432165
+463,AE_229,AE_229_2_passive_AC.pickle,157,6,passive,13.873873873873872
+464,AE_229,AE_229_2_passive_AC.pickle,178,6,passive,46.03015075376885
+465,AE_229,AE_229_2_passive_AC.pickle,179,6,passive,13.082077051926296
+466,AE_229,AE_229_2_passive_AC.pickle,185,6,passive,9.095477386934679
+467,AE_229,AE_229_2_passive_AC.pickle,191,6,passive,15.661641541038511
+468,AE_229,AE_229_2_passive_AC.pickle,194,6,passive,20.451127819548876
+469,AE_229,AE_229_2_passive_AC.pickle,204,6,passive,0.9553478712357216
+470,AE_229,AE_229_2_passive_AC.pickle,217,6,passive,5.812395309882742
+471,AE_229,AE_229_2_passive_AC.pickle,324,6,passive,1.0468319559228652
+472,AE_229,AE_229_2_passive_AC.pickle,381,6,passive,31.256281407035186
+473,AE_229,AE_229_2_passive_AC.pickle,396,6,passive,6.700167504187604
+474,AE_229,AE_229_2_passive_AC.pickle,412,6,passive,43.61538461538461
+475,AE_229,AE_229_2_passive_AC.pickle,419,6,passive,41.816239316239326
+476,AE_229,AE_229_2_passive_AC.pickle,424,6,passive,31.285140562248994
+477,AE_229,AE_229_3_passive_AC.pickle,2,6,passive,57.118927973199284
+478,AE_229,AE_229_3_passive_AC.pickle,4,6,passive,14.958123953098822
+479,AE_229,AE_229_3_passive_AC.pickle,10,6,passive,8.542713567839199
+480,AE_229,AE_229_3_passive_AC.pickle,53,6,passive,40.502512562814104
+481,AE_229,AE_229_3_passive_AC.pickle,67,6,passive,14.572864321608042
+482,AE_229,AE_229_3_passive_AC.pickle,77,6,passive,3.4840871021775524
+483,AE_229,AE_229_3_passive_AC.pickle,92,6,passive,7.805695142378562
+484,AE_229,AE_229_3_passive_AC.pickle,99,6,passive,12.96482412060302
+485,AE_229,AE_229_4_passive_AC.pickle,49,6,passive,62.763819095477395
+486,AE_229,AE_229_4_passive_AC.pickle,107,6,passive,26.247906197654938
+487,AE_229,AE_229_4_passive_AC.pickle,126,6,passive,17.712418300653592
+488,AE_229,AE_229_4_passive_AC.pickle,130,6,passive,18.724168912848153
+489,AE_229,AE_229_5_passive_AC.pickle,18,6,passive,14.015401540154013
+490,AE_229,AE_229_5_passive_AC.pickle,90,6,passive,54.143049932523645
+491,AE_229,AE_229_5_passive_AC.pickle,120,6,passive,11.807909604519772
+492,AE_229,AE_229_5_passive_AC.pickle,125,6,passive,16.499162479061965
+493,AE_229,AE_229_5_passive_AC.pickle,176,6,passive,23.71967654986522
+494,AE_229,AE_229_6_passive_AC.pickle,0,6,passive,2.780569514237855
+495,AE_229,AE_229_6_passive_AC.pickle,29,6,passive,0.8542713567839199
+496,AE_229,AE_229_6_passive_AC.pickle,40,6,passive,25.762144053601347
+497,AE_229,AE_229_6_passive_AC.pickle,41,6,passive,7.386934673366836
+498,AE_229,AE_229_6_passive_AC.pickle,42,6,passive,10.325203252032523
+499,AE_229,AE_229_6_passive_AC.pickle,43,6,passive,24.173027989821882
+500,AE_229,AE_229_6_passive_AC.pickle,48,6,passive,16.515912897822446
+501,AE_229,AE_229_6_passive_AC.pickle,58,6,passive,1.2227805695142384
+502,AE_229,AE_229_6_passive_AC.pickle,64,6,passive,9.849246231155785
+503,AE_229,AE_229_6_passive_AC.pickle,68,6,passive,1.7834394904458606
+504,AE_229,AE_229_6_passive_AC.pickle,71,6,passive,12.077051926298159
+505,AE_229,AE_229_6_passive_AC.pickle,79,6,passive,23.701842546063638
+506,AE_229,AE_229_6_passive_AC.pickle,86,6,passive,6.264656616415408
+507,AE_229,AE_229_6_passive_AC.pickle,91,6,passive,19.798994974874365
+508,AE_229,AE_229_6_passive_AC.pickle,92,6,passive,15.387840670859537
+509,AE_229,AE_229_6_passive_AC.pickle,97,6,passive,7.4036850921273025
+510,AE_229,AE_229_6_passive_AC.pickle,101,6,passive,14.827201783723526
+511,AE_229,AE_229_6_passive_AC.pickle,103,6,passive,6.013400335008376
+512,AE_229,AE_229_6_passive_AC.pickle,116,6,passive,22.48995983935742
+513,AE_229,AE_229_6_passive_AC.pickle,129,6,passive,16.683417085427127
+514,AE_229,AE_229_6_passive_AC.pickle,134,6,passive,3.919597989949748
+515,AE_229,AE_229_6_passive_AC.pickle,144,6,passive,5.323193916349811
+516,AE_229,AE_229_6_passive_AC.pickle,147,6,passive,1.7792068595927115
+517,AE_229,AE_229_6_passive_AC.pickle,153,6,passive,15.962441314553987
+518,AE_229,AE_229_6_passive_AC.pickle,158,6,passive,27.973199329983245
+519,AE_229,AE_229_7_passive_AC.pickle,33,6,passive,23.04635761589404
+520,AE_229,AE_229_7_passive_AC.pickle,39,6,passive,10.353200883002211
+521,AE_229,AE_229_7_passive_AC.pickle,44,6,passive,32.74509803921568
+522,AE_229,AE_229_7_passive_AC.pickle,105,6,passive,19.296482412060293
+523,AE_229,AE_229_7_passive_AC.pickle,107,6,passive,8.679962013295356
+524,AE_229,AE_229_7_passive_AC.pickle,110,6,passive,10.048590864917413
+525,AE_229,AE_229_7_passive_AC.pickle,152,6,passive,2.3264907135874853
+526,AE_229,AE_229_7_passive_AC.pickle,154,6,passive,15.963718820861674
+527,AE_229,AE_229_7_passive_AC.pickle,157,6,passive,26.389610389610393
+528,AE_229,AE_229_7_passive_AC.pickle,173,6,passive,1.1894882434301517
+529,AE_294,AE_294_1_passive_AC.pickle,5,3,passive,6.013400335008375
+530,AE_294,AE_294_1_passive_AC.pickle,17,3,passive,19.04522613065326
+531,AE_294,AE_294_1_passive_AC.pickle,29,3,passive,19.664991624790613
+532,AE_294,AE_294_1_passive_AC.pickle,133,3,passive,6.214405360134005
+533,AE_294,AE_294_1_passive_AC.pickle,137,3,passive,2.8475711892797335
+534,AE_294,AE_294_1_passive_AC.pickle,149,3,passive,18.509212730318243
+535,AE_294,AE_294_1_passive_AC.pickle,162,3,passive,27.893864013266995
+536,AE_294,AE_294_1_passive_AC.pickle,182,3,passive,16.0919540229885
+537,AE_294,AE_294_2_passive_AC.pickle,6,3,passive,53.1155778894472
+538,AE_294,AE_294_2_passive_AC.pickle,75,3,passive,11.316526610644257
+539,AE_294,AE_294_2_passive_AC.pickle,112,3,passive,5.326633165829141
+540,AE_294,AE_294_2_passive_AC.pickle,123,3,passive,42.39530988274706
+541,AE_294,AE_294_2_passive_AC.pickle,144,3,passive,0.8877721943048563
+542,AE_294,AE_294_2_passive_AC.pickle,169,3,passive,5.607064017660042
+543,AE_294,AE_294_2_passive_AC.pickle,242,3,passive,10.603015075376893
+544,AE_294,AE_294_2_passive_AC.pickle,280,3,passive,7.766323024054981
+545,AE_294,AE_294_2_passive_AC.pickle,315,3,passive,0.9892473118279569
+546,AE_294,AE_294_2_passive_AC.pickle,348,3,passive,10.190476190476181
+547,AE_294,AE_294_2_passive_AC.pickle,355,3,passive,8.962075848303394
+548,AE_294,AE_294_2_passive_AC.pickle,356,3,passive,28.301886792452827
+549,AE_294,AE_294_2_passive_AC.pickle,359,3,passive,10.737018425460633
+550,AE_294,AE_294_2_passive_AC.pickle,361,3,passive,9.456681350954474
+551,AE_294,AE_294_3_passive_AC.pickle,8,4,passive,11.974842767295604
+552,AE_294,AE_294_3_passive_AC.pickle,18,4,passive,2.8763440860215064
+553,AE_294,AE_294_3_passive_AC.pickle,45,4,passive,41.239530988274694
+554,AE_294,AE_294_3_passive_AC.pickle,47,4,passive,49.514237855946405
+555,AE_294,AE_294_3_passive_AC.pickle,68,4,passive,12.247557003257333
+556,AE_294,AE_294_3_passive_AC.pickle,74,4,passive,2.499999999999999
+557,AE_294,AE_294_3_passive_AC.pickle,87,4,passive,17.655677655677643
+558,AE_294,AE_294_3_passive_AC.pickle,96,4,passive,1.3232830820770518
+559,AE_294,AE_294_3_passive_AC.pickle,103,4,passive,11.289782244556122
+560,AE_294,AE_294_3_passive_AC.pickle,108,4,passive,6.046901172529308
+561,AE_294,AE_294_3_passive_AC.pickle,169,4,passive,5.265151515151515
+562,AE_294,AE_294_3_passive_AC.pickle,177,4,passive,45.40293040293041
+563,AE_294,AE_294_3_passive_AC.pickle,212,4,passive,16.28140703517587
+564,AE_294,AE_294_4_passive_AC.pickle,110,4,passive,25.326633165829158
+565,AE_294,AE_294_4_passive_AC.pickle,128,4,passive,26.800670016750413
+566,AE_294,AE_294_4_passive_AC.pickle,132,4,passive,8.184615384615386
+567,AE_294,AE_294_4_passive_AC.pickle,140,4,passive,8.65185185185185
+568,AE_294,AE_294_4_passive_AC.pickle,190,4,passive,9.179229480737026
+569,AE_294,AE_294_4_passive_AC.pickle,253,4,passive,53.383584589614706
+570,AE_294,AE_294_5_passive_AC.pickle,23,4,passive,23.316582914572873
+571,AE_294,AE_294_5_passive_AC.pickle,27,4,passive,11.356783919597987
+572,AE_294,AE_294_5_passive_AC.pickle,54,4,passive,2.395309882747067
+573,AE_294,AE_294_5_passive_AC.pickle,71,4,passive,14.053601340033497
+574,AE_294,AE_294_5_passive_AC.pickle,88,4,passive,2.4561403508771935
+575,AE_294,AE_294_5_passive_AC.pickle,108,4,passive,24.61215932914046
+576,AE_294,AE_294_5_passive_AC.pickle,114,4,passive,15.2428810720268
+577,AE_294,AE_294_5_passive_AC.pickle,135,4,passive,44.63986599664993
+578,AE_294,AE_294_5_passive_AC.pickle,148,4,passive,15.27638190954772
+579,AE_294,AE_294_5_passive_AC.pickle,158,4,passive,1.8592964824120606
+580,AE_294,AE_294_5_passive_AC.pickle,183,4,passive,23.048576214405383
+581,AE_294,AE_294_5_passive_AC.pickle,215,4,passive,52.91457286432162
+582,AE_294,AE_294_5_passive_AC.pickle,229,4,passive,26.734006734006726
+583,AE_294,AE_294_5_passive_AC.pickle,234,4,passive,18.475711892797314
+584,AE_294,AE_294_5_passive_AC.pickle,247,4,passive,1.3806706114398415
+585,AE_294,AE_294_5_passive_AC.pickle,255,4,passive,7.805695142378562
+586,AE_294,AE_294_5_passive_AC.pickle,276,4,passive,14.72049689440994
+587,AE_294,AE_294_5_passive_AC.pickle,280,4,passive,20.4355108877722
+588,LA_204,LA_204_5_passive_AC.pickle,24,4,passive,19.594594594594593
+589,LA_204,LA_204_5_passive_AC.pickle,38,4,passive,15.008375209380224
+590,LA_204,LA_204_5_passive_AC.pickle,52,4,passive,5.159817351598177
+591,LA_204,LA_204_5_passive_AC.pickle,53,4,passive,41.85061315496099
+592,LA_204,LA_204_5_passive_AC.pickle,58,4,passive,2.200854700854699
+593,LA_204,LA_204_6_passive_AC.pickle,32,5,passive,21.189279731993302
+594,LA_204,LA_204_6_passive_AC.pickle,45,5,passive,7.487437185929653
+595,LA_204,LA_204_6_passive_AC.pickle,48,5,passive,1.2873563218390804
+596,LA_205,LA_205_3_passive_AC.pickle,21,4,passive,4.6733668341708485
+597,LA_205,LA_205_3_passive_AC.pickle,32,4,passive,8.782051282051281
+598,LA_205,LA_205_3_passive_AC.pickle,37,4,passive,12.675438596491228
+599,LA_205,LA_205_3_passive_AC.pickle,69,4,passive,26.05095541401271
+600,LA_205,LA_205_3_passive_AC.pickle,70,4,passive,4.708333333333334
+601,LA_205,LA_205_3_passive_AC.pickle,90,4,passive,11.407035175879404
+602,LA_205,LA_205_4_passive_AC.pickle,31,4,passive,21.809045226130642
+603,LA_205,LA_205_4_passive_AC.pickle,56,4,passive,3.9698492462311528
+604,LA_205,LA_205_4_passive_AC.pickle,99,4,passive,23.618090452261303
+605,LA_205,LA_205_4_passive_AC.pickle,103,4,passive,16.465661641541033
+606,LA_205,LA_205_4_passive_AC.pickle,111,4,passive,13.18257956448911
+607,LA_205,LA_205_4_passive_AC.pickle,114,4,passive,36.281407035175924
+608,LA_205,LA_205_4_passive_AC.pickle,123,4,passive,7.972027972027972
+609,LA_205,LA_205_5_passive_AC.pickle,191,4,passive,10.708661417322837
+610,LA_205,LA_205_5_passive_AC.pickle,209,4,passive,7.891891891891889
+611,TH_200,TH_200_1_passive_AC.pickle,1,5,passive,2.6800670016750385
+612,TH_200,TH_200_1_passive_AC.pickle,85,5,passive,11.892797319933004
+613,TH_200,TH_200_1_passive_AC.pickle,92,5,passive,9.815745393634849
+614,TH_200,TH_200_1_passive_AC.pickle,95,5,passive,1.887550200803213
+615,TH_200,TH_200_1_passive_AC.pickle,137,5,passive,9.357798165137611
+616,TH_200,TH_200_1_passive_AC.pickle,145,5,passive,5.765765765765766
+617,TH_200,TH_200_1_passive_AC.pickle,167,5,passive,2.562814070351761
+618,TH_200,TH_200_1_passive_AC.pickle,201,5,passive,22.139303482587074
+619,TH_200,TH_200_1_passive_AC.pickle,315,5,passive,5.393634840871026
+620,TH_200,TH_200_2_passive_AC.pickle,25,5,passive,23.431952662721876
+621,TH_200,TH_200_2_passive_AC.pickle,36,5,passive,17.58793969849246
+622,TH_200,TH_200_2_passive_AC.pickle,74,5,passive,24.907872696817428
+623,TH_200,TH_200_2_passive_AC.pickle,79,5,passive,1.7049808429118778
+624,TH_200,TH_200_4_passive_AC.pickle,108,6,passive,6.532663316582916
+625,TH_200,TH_200_4_passive_AC.pickle,159,6,passive,8.07207207207207
+626,TH_201,TH_201_1_passive_AC.pickle,111,1,passive,9.564489112227808
+627,TH_201,TH_201_1_passive_AC.pickle,140,1,passive,4.703703703703705
+628,TH_201,TH_201_1_passive_AC.pickle,148,1,passive,4.400440044004397
+629,TH_201,TH_201_1_passive_AC.pickle,187,1,passive,11.527224435590975
+630,TH_201,TH_201_1_passive_AC.pickle,209,1,passive,19.07872696817417
+631,TH_201,TH_201_1_passive_AC.pickle,212,1,passive,16.448911222780566
+632,TH_201,TH_201_1_passive_AC.pickle,214,1,passive,13.271317829457363
+633,TH_201,TH_201_1_passive_AC.pickle,236,1,passive,17.59057971014495
+634,TH_201,TH_201_1_passive_AC.pickle,240,1,passive,32.93132328308208
+635,TH_201,TH_201_1_passive_AC.pickle,256,1,passive,25.644891122278064
+636,TH_201,TH_201_1_passive_AC.pickle,273,1,passive,18.107202680066976
+637,TH_201,TH_201_1_passive_AC.pickle,295,1,passive,9.262981574539376
+638,TH_201,TH_201_1_passive_AC.pickle,307,1,passive,33.160733549083055
+639,TH_201,TH_201_1_passive_AC.pickle,318,1,passive,3.605870020964361
+640,TH_201,TH_201_1_passive_AC.pickle,358,1,passive,55.12562814070349
+641,TH_201,TH_201_1_passive_AC.pickle,361,1,passive,35.795644891122265
+642,TH_201,TH_201_1_passive_AC.pickle,390,1,passive,28.927973199329994
+643,TH_201,TH_201_2_passive_AC.pickle,44,1,passive,16.968174204355105
+644,TH_201,TH_201_2_passive_AC.pickle,67,1,passive,6.994152046783625
+645,TH_201,TH_201_2_passive_AC.pickle,213,1,passive,11.222780569514233
+646,TH_201,TH_201_2_passive_AC.pickle,219,1,passive,13.585585585585584
+647,TH_201,TH_201_2_passive_AC.pickle,237,1,passive,5.271966527196652
+648,TH_201,TH_201_2_passive_AC.pickle,269,1,passive,16.309963099630995
+649,TH_201,TH_201_2_passive_AC.pickle,290,1,passive,4.299516908212562
+650,TH_201,TH_201_3_passive_AC.pickle,13,1,passive,17.52834467120181
+651,TH_201,TH_201_3_passive_AC.pickle,26,1,passive,2.5293132328308214
+652,TH_201,TH_201_3_passive_AC.pickle,37,1,passive,35.788479697828144
+653,TH_201,TH_201_3_passive_AC.pickle,40,1,passive,15.611390284757118
+654,TH_201,TH_201_3_passive_AC.pickle,41,1,passive,39.02847571189282
+655,TH_201,TH_201_3_passive_AC.pickle,66,1,passive,26.700167504187608
+656,TH_201,TH_201_3_passive_AC.pickle,76,1,passive,0.6419753086419752
+657,TH_201,TH_201_3_passive_AC.pickle,95,1,passive,35.8626465661642
+658,TH_201,TH_201_3_passive_AC.pickle,130,1,passive,9.497487437185937
+659,TH_201,TH_201_3_passive_AC.pickle,133,1,passive,18.140703517587934
+660,TH_201,TH_201_3_passive_AC.pickle,164,1,passive,15.349593495934965
+661,TH_201,TH_201_3_passive_AC.pickle,205,1,passive,1.7624521072796926
+662,TH_201,TH_201_3_passive_AC.pickle,254,1,passive,8.350515463917526
+663,TH_201,TH_201_4_passive_AC.pickle,79,1,passive,0.887772194304858
+664,TH_201,TH_201_4_passive_AC.pickle,98,1,passive,40.93802345058626
+665,TH_201,TH_201_4_passive_AC.pickle,141,1,passive,15.527638190954766
+666,TH_201,TH_201_4_passive_AC.pickle,211,1,passive,26.18090452261307
+667,TH_201,TH_201_4_passive_AC.pickle,293,1,passive,22.44556113902846
+668,TH_201,TH_201_5_passive_AC.pickle,7,2,passive,9.346733668341706
+669,TH_201,TH_201_5_passive_AC.pickle,8,2,passive,23.17460317460317
+670,TH_201,TH_201_5_passive_AC.pickle,12,2,passive,15.018726591760299
+671,TH_201,TH_201_5_passive_AC.pickle,55,2,passive,6.951423785594631
+672,TH_201,TH_201_5_passive_AC.pickle,80,2,passive,9.514237855946401
+673,TH_201,TH_201_5_passive_AC.pickle,83,2,passive,32.65359477124181
+674,TH_201,TH_201_5_passive_AC.pickle,125,2,passive,34.50586264656617
+675,TH_201,TH_201_5_passive_AC.pickle,229,2,passive,12.026800670016746
+676,TH_203,TH_203_2_passive_AC.pickle,119,1,passive,5.443886097152427
+677,TH_203,TH_203_2_passive_AC.pickle,127,1,passive,22.110552763819108
+678,TH_203,TH_203_2_passive_AC.pickle,136,1,passive,1.725293132328309
+679,TH_203,TH_203_5_passive_AC.pickle,7,2,passive,13.249581239530988
+680,TH_203,TH_203_5_passive_AC.pickle,29,2,passive,2.7901234567901234
+681,TH_203,TH_203_5_passive_AC.pickle,69,2,passive,29.346733668341727
+682,TH_203,TH_203_5_passive_AC.pickle,71,2,passive,17.33668341708542
+683,TH_203,TH_203_5_passive_AC.pickle,112,2,passive,0.7537688442211047
+684,TH_203,TH_203_5_passive_AC.pickle,128,2,passive,12.261306532663317
+685,TH_230,TH_230_1_passive_AC.pickle,1,5,passive,42.55451713395643
+686,TH_230,TH_230_1_passive_AC.pickle,30,5,passive,7.855946398659972
+687,TH_230,TH_230_1_passive_AC.pickle,35,5,passive,23.56756756756758
+688,TH_230,TH_230_1_passive_AC.pickle,38,5,passive,107.61904761904762
+689,TH_230,TH_230_1_passive_AC.pickle,54,5,passive,17.252931323283068
+690,TH_230,TH_230_1_passive_AC.pickle,77,5,passive,15.678391959798983
+691,TH_230,TH_230_1_passive_AC.pickle,85,5,passive,4.840871021775539
+692,TH_230,TH_230_1_passive_AC.pickle,108,5,passive,41.273031825795655
+693,TH_230,TH_230_1_passive_AC.pickle,136,5,passive,25.510887772194305
+694,TH_230,TH_230_1_passive_AC.pickle,140,5,passive,38.572719060523944
+695,TH_230,TH_230_1_passive_AC.pickle,149,5,passive,2.613065326633167
+696,TH_230,TH_230_1_passive_AC.pickle,156,5,passive,2.110552763819095
+697,TH_230,TH_230_1_passive_AC.pickle,165,5,passive,22.757936507936506
+698,TH_230,TH_230_1_passive_AC.pickle,166,5,passive,1.9483568075117363
+699,TH_230,TH_230_1_passive_AC.pickle,186,5,passive,10.318257956448917
+700,TH_230,TH_230_1_passive_AC.pickle,187,5,passive,34.57286432160803
+701,TH_230,TH_230_1_passive_AC.pickle,207,5,passive,2.4086021505376345
+702,TH_230,TH_230_1_passive_AC.pickle,259,5,passive,6.805074971164934
+703,TH_230,TH_230_1_passive_AC.pickle,262,5,passive,24.623115577889493
+704,TH_230,TH_230_1_passive_AC.pickle,263,5,passive,8.601307189542485
+705,TH_230,TH_230_1_passive_AC.pickle,265,5,passive,16.786188579017264
+706,TH_230,TH_230_1_passive_AC.pickle,282,5,passive,11.16339869281046
+707,TH_230,TH_230_2_passive_AC.pickle,0,6,passive,48.442211055276374
+708,TH_230,TH_230_2_passive_AC.pickle,53,6,passive,2.270742358078602
+709,TH_230,TH_230_2_passive_AC.pickle,72,6,passive,51.80904522613064
+710,TH_230,TH_230_2_passive_AC.pickle,73,6,passive,8.375209380234512
+711,TH_230,TH_230_2_passive_AC.pickle,80,6,passive,108.4757118927973
+712,TH_230,TH_230_2_passive_AC.pickle,146,6,passive,3.6180904522613067
+713,TH_230,TH_230_2_passive_AC.pickle,149,6,passive,22.847571189279744
+714,TH_230,TH_230_2_passive_AC.pickle,161,6,passive,11.139028475711893
+715,TH_230,TH_230_2_passive_AC.pickle,171,6,passive,31.943048576214448
+716,TH_230,TH_230_2_passive_AC.pickle,191,6,passive,3.6683417085427146
+717,TH_230,TH_230_3_passive_AC.pickle,8,6,passive,59.91624790619761
+718,TH_230,TH_230_3_passive_AC.pickle,12,6,passive,64.82412060301507
+719,TH_230,TH_230_3_passive_AC.pickle,14,6,passive,37.27272727272727
+720,TH_230,TH_230_3_passive_AC.pickle,15,6,passive,44.321608040201035
+721,TH_230,TH_230_3_passive_AC.pickle,24,6,passive,25.57788944723618
+722,TH_230,TH_230_3_passive_AC.pickle,33,6,passive,21.256281407035168
+723,TH_230,TH_230_3_passive_AC.pickle,43,6,passive,15.71600481347774
+724,TH_230,TH_230_3_passive_AC.pickle,49,6,passive,35.41038525963152
+725,TH_230,TH_230_3_passive_AC.pickle,76,6,passive,16.81742043551089
+726,TH_230,TH_230_3_passive_AC.pickle,78,6,passive,5.678391959798995
+727,TH_230,TH_230_3_passive_AC.pickle,81,6,passive,26.415410385259637
+728,TH_230,TH_230_3_passive_AC.pickle,92,6,passive,0.8877721943048578
+729,TH_230,TH_230_3_passive_AC.pickle,95,6,passive,1.6582914572864367
+730,TH_230,TH_230_4_passive_AC.pickle,165,6,passive,6.752799310938846
+731,TH_230,TH_230_4_passive_AC.pickle,218,6,passive,3.743078626799556
+732,TH_230,TH_230_4_passive_AC.pickle,232,6,passive,11.482433590402742
+733,TH_230,TH_230_4_passive_AC.pickle,311,6,passive,5.996649916247908
+734,TH_230,TH_230_4_passive_AC.pickle,312,6,passive,10.311750599520382
+735,TH_230,TH_230_4_passive_AC.pickle,318,6,passive,1.1382113821138211
+736,TH_230,TH_230_5_passive_AC.pickle,82,6,passive,22.169059011164272
+737,TH_230,TH_230_5_passive_AC.pickle,169,6,passive,10.761154855643047
+738,TH_230,TH_230_6_passive_AC.pickle,28,6,passive,62.09380234505846
+739,TH_230,TH_230_6_passive_AC.pickle,44,6,passive,11.098376313276038
+740,TH_230,TH_230_6_passive_AC.pickle,56,6,passive,21.742043551088777
+741,TH_230,TH_230_6_passive_AC.pickle,61,6,passive,5.9966499162479066
+742,TH_230,TH_230_6_passive_AC.pickle,65,6,passive,21.914414414414395
+743,TH_230,TH_230_6_passive_AC.pickle,126,6,passive,25.69780853517877
+744,TH_230,TH_230_6_passive_AC.pickle,138,6,passive,3.4968553459119502
+745,TH_230,TH_230_6_passive_AC.pickle,143,6,passive,53.16582914572864
+746,TH_230,TH_230_7_passive_AC.pickle,11,6,passive,19.3299832495812
+747,TH_230,TH_230_7_passive_AC.pickle,25,6,passive,7.116402116402116
+748,TH_230,TH_230_7_passive_AC.pickle,33,6,passive,20.16
+749,TH_233,TH_233_1_passive_AC.pickle,0,2,passive,19.130434782608692
+750,TH_233,TH_233_1_passive_AC.pickle,17,2,passive,25.963149078726975
+751,TH_233,TH_233_1_passive_AC.pickle,35,2,passive,31.490787269681803
+752,TH_233,TH_233_1_passive_AC.pickle,36,2,passive,20.804020100502502
+753,TH_233,TH_233_1_passive_AC.pickle,82,2,passive,3.7426900584795315
+754,TH_233,TH_233_1_passive_AC.pickle,151,2,passive,11.950354609929077
+755,TH_233,TH_233_1_passive_AC.pickle,155,2,passive,30.620399579390103
+756,TH_233,TH_233_1_passive_AC.pickle,165,2,passive,5.862646566164157
+757,TH_233,TH_233_1_passive_AC.pickle,198,2,passive,5.56832694763729
+758,TH_233,TH_233_1_passive_AC.pickle,207,2,passive,11.416122004357298
+759,TH_233,TH_233_1_passive_AC.pickle,215,2,passive,27.520938023450597
+760,TH_233,TH_233_2_passive_AC.pickle,1,2,passive,36.04690117252936
+761,TH_233,TH_233_2_passive_AC.pickle,24,2,passive,7.2361809045226195
+762,TH_233,TH_233_2_passive_AC.pickle,113,2,passive,36.93262411347518
+763,TH_233,TH_233_2_passive_AC.pickle,163,2,passive,9.396984924623117
+764,TH_233,TH_233_2_passive_AC.pickle,169,2,passive,14.438860971524285
+765,TH_233,TH_233_2_passive_AC.pickle,172,2,passive,7.956448911222794
+766,TH_233,TH_233_2_passive_AC.pickle,188,2,passive,3.992015968063876
+767,TH_233,TH_233_2_passive_AC.pickle,201,2,passive,1.4562002275312853
+768,TH_233,TH_233_2_passive_AC.pickle,208,2,passive,19.530988274706896
+769,TH_233,TH_233_3_passive_AC.pickle,9,3,passive,11.390284757118923
+770,TH_233,TH_233_3_passive_AC.pickle,33,3,passive,8.576214405360144
+771,TH_233,TH_233_3_passive_AC.pickle,38,3,passive,14.020100502512552
+772,TH_233,TH_233_3_passive_AC.pickle,54,3,passive,1.8592964824120592
+773,TH_233,TH_233_4_passive_AC.pickle,31,3,passive,6.993197278911563
+774,TH_234,TH_234_1_passive_AC.pickle,5,2,passive,132.9559748427673
+775,TH_234,TH_234_1_passive_AC.pickle,27,2,passive,2.138364779874214
+776,TH_234,TH_234_1_passive_AC.pickle,34,2,passive,7.7987421383647835
+777,TH_234,TH_234_1_passive_AC.pickle,47,2,passive,69.05660377358491
+778,TH_234,TH_234_1_passive_AC.pickle,168,2,passive,4.088050314465408
+779,TH_234,TH_234_1_passive_AC.pickle,171,2,passive,26.352201257861637
+780,TH_234,TH_234_1_passive_AC.pickle,175,2,passive,19.811320754716977
+781,TH_234,TH_234_1_passive_AC.pickle,180,2,passive,41.63522012578617
+782,TH_234,TH_234_2_passive_AC.pickle,11,2,passive,12.672176308539946
+783,TH_234,TH_234_2_passive_AC.pickle,24,2,passive,14.265232974910397
+784,TH_234,TH_234_2_passive_AC.pickle,29,2,passive,63.78787878787878
+785,TH_234,TH_234_2_passive_AC.pickle,36,2,passive,28.090452261306528
+786,TH_234,TH_234_2_passive_AC.pickle,68,2,passive,5.578231292517005
+787,TH_234,TH_234_2_passive_AC.pickle,131,2,passive,13.8860971524288
+788,TH_234,TH_234_2_passive_AC.pickle,153,2,passive,2.428810720268005
+789,TH_234,TH_234_2_passive_AC.pickle,160,2,passive,3.584589614740365
+790,TH_234,TH_234_2_passive_AC.pickle,212,2,passive,23.29140461215931
+791,TH_234,TH_234_2_passive_AC.pickle,226,2,passive,27.08542713567838
+792,TH_234,TH_234_2_passive_AC.pickle,266,2,passive,6.164154103852596
+793,TH_234,TH_234_2_passive_AC.pickle,287,2,passive,20.08375209380235
+794,TH_234,TH_234_2_passive_AC.pickle,300,2,passive,20.938023450586247
+795,TH_234,TH_234_2_passive_AC.pickle,313,2,passive,0.6419753086419753
+796,TH_234,TH_234_2_passive_AC.pickle,324,2,passive,27.122807017543852
+797,TH_234,TH_234_2_passive_AC.pickle,335,2,passive,31.084812623274164
+798,TH_234,TH_234_2_passive_AC.pickle,356,2,passive,22.981574539363482
+799,TH_234,TH_234_2_passive_AC.pickle,364,2,passive,34.020100502512534
+800,TH_234,TH_234_3_passive_AC.pickle,5,3,passive,8.140703517587943
+801,TH_234,TH_234_3_passive_AC.pickle,40,3,passive,97.52093802345057
+802,TH_234,TH_234_3_passive_AC.pickle,42,3,passive,16.666666666666664
+803,TH_234,TH_234_3_passive_AC.pickle,107,3,passive,7.9396984924623055
+804,TH_234,TH_234_3_passive_AC.pickle,109,3,passive,144.7906197654942
+805,TH_234,TH_234_3_passive_AC.pickle,119,3,passive,5.034013605442178
+806,TH_234,TH_234_3_passive_AC.pickle,122,3,passive,6.2479061976549435
+807,TH_234,TH_234_3_passive_AC.pickle,172,3,passive,15.79564489112226
+808,TH_234,TH_234_3_passive_AC.pickle,183,3,passive,3.5772357723577235
+809,TH_234,TH_234_4_passive_AC.pickle,60,3,passive,3.718592964824123
+810,TH_234,TH_234_4_passive_AC.pickle,73,3,passive,25.64489112227805
+811,TH_234,TH_234_4_passive_AC.pickle,97,3,passive,13.065326633165824

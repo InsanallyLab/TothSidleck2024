@@ -1,0 +1,449 @@
+,animal,session,cluster ID,learning phase,category
+0,BS_108,BS_108_1_AC.pickle,2,pre expert,CR (enhanced)
+1,BS_108,BS_108_1_AC.pickle,8,pre expert,CR (enhanced)
+2,BS_108,BS_108_1_AC.pickle,9,pre expert,CR (enhanced)
+3,BS_108,BS_108_1_AC.pickle,34,pre expert,CR (enhanced)
+4,BS_108,BS_108_2_AC.pickle,2,pre expert,CR (enhanced)
+5,BS_108,BS_108_2_AC.pickle,7,pre expert,CR (enhanced)
+6,BS_108,BS_108_2_AC.pickle,26,pre expert,CR (enhanced)
+7,BS_108,BS_108_6_AC.pickle,2,post early,NCR
+8,BS_108,BS_108_6_AC.pickle,9,post early,CR (enhanced)
+9,BS_108,BS_108_6_AC.pickle,33,post early,NCR
+10,BS_108,BS_108_6_AC.pickle,47,post early,CR (enhanced)
+11,BS_108,BS_108_6_AC.pickle,48,post early,CR (enhanced)
+12,BS_108,BS_108_6_AC.pickle,78,post early,NCR
+13,BS_108,BS_108_6_AC.pickle,79,post early,NCR
+14,BS_108,BS_108_6_AC.pickle,126,post early,CR (enhanced)
+15,BS_108,BS_108_6_AC.pickle,133,post early,CR (enhanced)
+16,BS_40,BS_40_10_AC.pickle,5,pre late,CR (suppressed)
+17,BS_40,BS_40_10_AC.pickle,12,pre late,NCR
+18,BS_40,BS_40_12_AC.pickle,2,pre expert,CR (suppressed)
+19,BS_40,BS_40_12_AC.pickle,29,pre expert,NCR
+20,BS_40,BS_40_12_AC.pickle,52,pre expert,CR (suppressed)
+21,BS_40,BS_40_12_AC.pickle,56,pre expert,CR (enhanced)
+22,BS_40,BS_40_15_AC.pickle,0,post early,NCR
+23,BS_40,BS_40_16_AC.pickle,21,post early,CR (enhanced)
+24,BS_40,BS_40_16_AC.pickle,35,post early,CR (enhanced)
+25,BS_40,BS_40_2_AC.pickle,61,pre late,CR (enhanced)
+26,BS_40,BS_40_2_AC.pickle,66,pre late,CR (enhanced)
+27,BS_40,BS_40_2_AC.pickle,67,pre late,CR (enhanced)
+28,BS_40,BS_40_2_AC.pickle,103,pre late,CR (enhanced)
+29,BS_40,BS_40_2_AC.pickle,115,pre late,CR (enhanced)
+30,BS_40,BS_40_2_AC.pickle,122,pre late,NCR
+31,BS_40,BS_40_2_AC.pickle,153,pre late,CR (enhanced)
+32,BS_40,BS_40_2_AC.pickle,166,pre late,NCR
+33,BS_40,BS_40_2_AC.pickle,194,pre late,CR (enhanced)
+34,BS_40,BS_40_2_AC.pickle,195,pre late,CR (enhanced)
+35,BS_40,BS_40_2_AC.pickle,201,pre late,NCR
+36,BS_40,BS_40_2_AC.pickle,206,pre late,CR (enhanced)
+37,BS_40,BS_40_2_AC.pickle,222,pre late,NCR
+38,BS_40,BS_40_2_AC.pickle,225,pre late,CR (enhanced)
+39,BS_40,BS_40_2_AC.pickle,231,pre late,NCR
+40,BS_40,BS_40_3_AC.pickle,14,pre late,CR (enhanced)
+41,BS_40,BS_40_3_AC.pickle,15,pre late,CR (enhanced)
+42,BS_40,BS_40_3_AC.pickle,33,pre late,NCR
+43,BS_40,BS_40_3_AC.pickle,36,pre late,NCR
+44,BS_40,BS_40_3_AC.pickle,57,pre late,CR (enhanced)
+45,BS_40,BS_40_3_AC.pickle,76,pre late,NCR
+46,BS_40,BS_40_3_AC.pickle,81,pre late,CR (enhanced)
+47,BS_40,BS_40_3_AC.pickle,114,pre late,CR (enhanced)
+48,BS_40,BS_40_3_AC.pickle,151,pre late,NCR
+49,BS_40,BS_40_3_AC.pickle,155,pre late,CR (enhanced)
+50,BS_40,BS_40_4_AC.pickle,18,pre late,CR (enhanced)
+51,BS_40,BS_40_4_AC.pickle,29,pre late,CR (enhanced)
+52,BS_40,BS_40_6_AC.pickle,7,pre late,NCR
+53,BS_40,BS_40_6_AC.pickle,11,pre late,NCR
+54,BS_40,BS_40_6_AC.pickle,15,pre late,CR (enhanced)
+55,BS_40,BS_40_6_AC.pickle,27,pre late,NCR
+56,BS_40,BS_40_7_AC.pickle,36,pre late,NCR
+57,BS_40,BS_40_8_AC.pickle,44,pre late,NCR
+58,BS_41,BS_41_2_AC.pickle,23,post early,NCR
+59,BS_41,BS_41_2_AC.pickle,52,post early,CR (enhanced)
+60,BS_41,BS_41_2_AC.pickle,55,post early,CR (enhanced)
+61,BS_41,BS_41_2_AC.pickle,155,post early,NCR
+62,BS_41,BS_41_2_AC.pickle,236,post early,CR (enhanced)
+63,BS_41,BS_41_4_AC.pickle,6,post late,CR (suppressed)
+64,BS_41,BS_41_4_AC.pickle,19,post late,CR (enhanced)
+65,BS_41,BS_41_4_AC.pickle,20,post late,NCR
+66,BS_41,BS_41_4_AC.pickle,57,post late,CR (enhanced)
+67,BS_41,BS_41_4_AC.pickle,64,post late,CR (enhanced)
+68,BS_41,BS_41_4_AC.pickle,66,post late,CR (enhanced)
+69,BS_41,BS_41_4_AC.pickle,84,post late,NCR
+70,BS_41,BS_41_4_AC.pickle,95,post late,NCR
+71,BS_41,BS_41_4_AC.pickle,97,post late,NCR
+72,BS_41,BS_41_4_AC.pickle,100,post late,NCR
+73,BS_41,BS_41_4_AC.pickle,101,post late,CR (suppressed)
+74,BS_41,BS_41_4_AC.pickle,115,post late,CR (enhanced)
+75,BS_41,BS_41_4_AC.pickle,117,post late,CR (enhanced)
+76,BS_41,BS_41_4_AC.pickle,119,post late,NCR
+77,BS_41,BS_41_5_AC.pickle,13,post late,CR (enhanced)
+78,BS_41,BS_41_5_AC.pickle,15,post late,NCR
+79,BS_41,BS_41_5_AC.pickle,68,post late,NCR
+80,BS_41,BS_41_6_AC.pickle,3,post late,CR (enhanced)
+81,BS_41,BS_41_6_AC.pickle,6,post late,NCR
+82,BS_41,BS_41_6_AC.pickle,7,post late,CR (enhanced)
+83,BS_41,BS_41_6_AC.pickle,32,post late,NCR
+84,BS_41,BS_41_7_AC.pickle,0,post late,NCR
+85,BS_41,BS_41_7_AC.pickle,50,post late,NCR
+86,BS_41,BS_41_7_AC.pickle,55,post late,NCR
+87,BS_41,BS_41_7_AC.pickle,63,post late,NCR
+88,BS_41,BS_41_7_AC.pickle,64,post late,CR (enhanced)
+89,BS_41,BS_41_7_AC.pickle,73,post late,NCR
+90,BS_41,BS_41_7_AC.pickle,81,post late,NCR
+91,BS_41,BS_41_8_AC.pickle,13,post late,NCR
+92,BS_41,BS_41_8_AC.pickle,58,post late,NCR
+93,BS_41,BS_41_8_AC.pickle,60,post late,CR (enhanced)
+94,BS_41,BS_41_8_AC.pickle,61,post late,CR (enhanced)
+95,BS_41,BS_41_8_AC.pickle,66,post late,NCR
+96,BS_41,BS_41_8_AC.pickle,67,post late,NCR
+97,BS_41,BS_41_8_AC.pickle,72,post late,NCR
+98,BS_41,BS_41_8_AC.pickle,77,post late,CR (enhanced)
+99,BS_41,BS_41_8_AC.pickle,82,post late,CR (suppressed)
+100,BS_41,BS_41_9_AC.pickle,24,post late,NCR
+101,BS_41,BS_41_9_AC.pickle,37,post late,CR (enhanced)
+102,BS_41,BS_41_9_AC.pickle,101,post late,NCR
+103,BS_41,BS_41_9_AC.pickle,109,post late,CR (enhanced)
+104,BS_42,BS_42_10_AC.pickle,8,post expert,CR (enhanced)
+105,BS_42,BS_42_10_AC.pickle,10,post expert,CR (enhanced)
+106,BS_42,BS_42_10_AC.pickle,18,post expert,NCR
+107,BS_42,BS_42_10_AC.pickle,26,post expert,CR (enhanced)
+108,BS_42,BS_42_11_AC.pickle,44,post expert,CR (enhanced)
+109,BS_42,BS_42_2_AC.pickle,8,post early,CR (enhanced)
+110,BS_42,BS_42_2_AC.pickle,9,post early,CR (suppressed)
+111,BS_42,BS_42_2_AC.pickle,12,post early,CR (enhanced)
+112,BS_42,BS_42_2_AC.pickle,14,post early,CR (enhanced)
+113,BS_42,BS_42_2_AC.pickle,15,post early,NCR
+114,BS_42,BS_42_2_AC.pickle,16,post early,CR (enhanced)
+115,BS_42,BS_42_2_AC.pickle,54,post early,CR (enhanced)
+116,BS_42,BS_42_2_AC.pickle,61,post early,CR (enhanced)
+117,BS_42,BS_42_2_AC.pickle,62,post early,CR (enhanced)
+118,BS_42,BS_42_2_AC.pickle,64,post early,CR (enhanced)
+119,BS_42,BS_42_2_AC.pickle,82,post early,CR (enhanced)
+120,BS_42,BS_42_2_AC.pickle,85,post early,CR (enhanced)
+121,BS_42,BS_42_2_AC.pickle,86,post early,CR (enhanced)
+122,BS_42,BS_42_2_AC.pickle,131,post early,NCR
+123,BS_42,BS_42_3_AC.pickle,26,post early,NCR
+124,BS_42,BS_42_3_AC.pickle,27,post early,NCR
+125,BS_42,BS_42_3_AC.pickle,47,post early,NCR
+126,BS_42,BS_42_3_AC.pickle,56,post early,CR (enhanced)
+127,BS_42,BS_42_3_AC.pickle,96,post early,CR (enhanced)
+128,BS_42,BS_42_3_AC.pickle,101,post early,NCR
+129,BS_42,BS_42_4_AC.pickle,36,post early,NCR
+130,BS_42,BS_42_4_AC.pickle,40,post early,CR (enhanced)
+131,BS_42,BS_42_4_AC.pickle,41,post early,CR (enhanced)
+132,BS_42,BS_42_4_AC.pickle,61,post early,CR (enhanced)
+133,BS_42,BS_42_4_AC.pickle,65,post early,NCR
+134,BS_42,BS_42_5_AC.pickle,33,post early,CR (enhanced)
+135,BS_42,BS_42_6_AC.pickle,26,post late,CR (enhanced)
+136,BS_42,BS_42_6_AC.pickle,48,post late,CR (enhanced)
+137,BS_42,BS_42_6_AC.pickle,76,post late,NCR
+138,BS_42,BS_42_7_AC.pickle,25,post late,NCR
+139,BS_42,BS_42_7_AC.pickle,35,post late,NCR
+140,BS_42,BS_42_7_AC.pickle,42,post late,CR (enhanced)
+141,BS_42,BS_42_7_AC.pickle,46,post late,NCR
+142,BS_42,BS_42_7_AC.pickle,49,post late,NCR
+143,BS_42,BS_42_7_AC.pickle,52,post late,NCR
+144,BS_42,BS_42_7_AC.pickle,53,post late,NCR
+145,BS_42,BS_42_7_AC.pickle,64,post late,NCR
+146,BS_42,BS_42_7_AC.pickle,65,post late,NCR
+147,BS_42,BS_42_7_AC.pickle,66,post late,NCR
+148,BS_42,BS_42_7_AC.pickle,71,post late,NCR
+149,BS_42,BS_42_7_AC.pickle,72,post late,NCR
+150,BS_42,BS_42_7_AC.pickle,84,post late,NCR
+151,BS_42,BS_42_7_AC.pickle,89,post late,NCR
+152,BS_42,BS_42_7_AC.pickle,93,post late,CR (enhanced)
+153,BS_42,BS_42_7_AC.pickle,100,post late,CR (enhanced)
+154,BS_42,BS_42_7_AC.pickle,119,post late,NCR
+155,BS_42,BS_42_8_AC.pickle,13,post expert,CR (enhanced)
+156,BS_42,BS_42_9_AC.pickle,32,post expert,NCR
+157,BS_49,BS_49_12_AC.pickle,6,pre expert,NCR
+158,BS_49,BS_49_12_AC.pickle,10,pre expert,CR (enhanced)
+159,BS_49,BS_49_12_AC.pickle,13,pre expert,CR (enhanced)
+160,BS_49,BS_49_12_AC.pickle,22,pre expert,NCR
+161,BS_49,BS_49_12_AC.pickle,39,pre expert,CR (suppressed)
+162,BS_49,BS_49_12_AC.pickle,49,pre expert,NCR
+163,BS_49,BS_49_14_AC.pickle,16,post late,NCR
+164,BS_49,BS_49_16_AC.pickle,10,post expert,CR (enhanced)
+165,BS_49,BS_49_1_AC.pickle,6,pre early,CR (enhanced)
+166,BS_49,BS_49_1_AC.pickle,152,pre early,NCR
+167,BS_49,BS_49_2_AC.pickle,6,pre early,CR (enhanced)
+168,BS_49,BS_49_2_AC.pickle,11,pre early,CR (enhanced)
+169,BS_49,BS_49_2_AC.pickle,12,pre early,CR (enhanced)
+170,BS_49,BS_49_2_AC.pickle,31,pre early,CR (enhanced)
+171,BS_49,BS_49_2_AC.pickle,47,pre early,CR (enhanced)
+172,BS_49,BS_49_4_AC.pickle,9,pre early,CR (enhanced)
+173,BS_49,BS_49_4_AC.pickle,14,pre early,CR (enhanced)
+174,BS_49,BS_49_4_AC.pickle,16,pre early,CR (enhanced)
+175,BS_49,BS_49_4_AC.pickle,27,pre early,CR (suppressed)
+176,BS_49,BS_49_4_AC.pickle,28,pre early,NCR
+177,BS_49,BS_49_4_AC.pickle,35,pre early,CR (enhanced)
+178,BS_49,BS_49_4_AC.pickle,36,pre early,CR (enhanced)
+179,BS_49,BS_49_4_AC.pickle,45,pre early,CR (enhanced)
+180,BS_49,BS_49_4_AC.pickle,46,pre early,CR (enhanced)
+181,BS_49,BS_49_4_AC.pickle,53,pre early,CR (enhanced)
+182,BS_49,BS_49_4_AC.pickle,55,pre early,NCR
+183,BS_49,BS_49_4_AC.pickle,56,pre early,CR (enhanced)
+184,BS_49,BS_49_4_AC.pickle,68,pre early,CR (enhanced)
+185,BS_49,BS_49_4_AC.pickle,71,pre early,NCR
+186,BS_49,BS_49_4_AC.pickle,73,pre early,CR (enhanced)
+187,BS_49,BS_49_7_AC.pickle,2,pre late,CR (suppressed)
+188,BS_49,BS_49_9_AC.pickle,18,pre late,CR (enhanced)
+189,BS_50,BS_50_2_AC.pickle,2,pre early,CR (enhanced)
+190,BS_50,BS_50_2_AC.pickle,14,pre early,CR (enhanced)
+191,BS_50,BS_50_2_AC.pickle,23,pre early,CR (enhanced)
+192,BS_50,BS_50_2_AC.pickle,35,pre early,CR (enhanced)
+193,BS_50,BS_50_2_AC.pickle,79,pre early,NCR
+194,BS_50,BS_50_2_AC.pickle,83,pre early,NCR
+195,BS_50,BS_50_2_AC.pickle,88,pre early,NCR
+196,BS_50,BS_50_3_AC.pickle,0,pre early,CR (enhanced)
+197,BS_50,BS_50_3_AC.pickle,3,pre early,CR (enhanced)
+198,BS_50,BS_50_3_AC.pickle,11,pre early,CR (suppressed)
+199,BS_50,BS_50_3_AC.pickle,16,pre early,CR (enhanced)
+200,BS_50,BS_50_3_AC.pickle,21,pre early,CR (enhanced)
+201,BS_50,BS_50_3_AC.pickle,34,pre early,CR (enhanced)
+202,BS_50,BS_50_3_AC.pickle,41,pre early,CR (enhanced)
+203,BS_50,BS_50_3_AC.pickle,45,pre early,CR (enhanced)
+204,BS_56,BS_56_1_AC.pickle,3,post expert,CR (enhanced)
+205,BS_56,BS_56_1_AC.pickle,14,post expert,NCR
+206,BS_56,BS_56_2_AC.pickle,9,post expert,CR (enhanced)
+207,BS_56,BS_56_3_AC.pickle,7,post expert,NCR
+208,BS_56,BS_56_3_AC.pickle,10,post expert,NCR
+209,BS_56,BS_56_3_AC.pickle,13,post expert,NCR
+210,BS_56,BS_56_3_AC.pickle,20,post expert,NCR
+211,BS_56,BS_56_3_AC.pickle,35,post expert,CR (suppressed)
+212,BS_67,BS_67_1_AC.pickle,10,post late,NCR
+213,BS_67,BS_67_1_AC.pickle,16,post late,CR (enhanced)
+214,BS_67,BS_67_1_AC.pickle,19,post late,CR (enhanced)
+215,BS_67,BS_67_1_AC.pickle,55,post late,CR (enhanced)
+216,BS_67,BS_67_1_AC.pickle,59,post late,CR (enhanced)
+217,BS_67,BS_67_2_AC.pickle,1,post expert,NCR
+218,BS_70,BS_70_11_AC.pickle,14,post late,NCR
+219,BS_70,BS_70_11_AC.pickle,18,post late,NCR
+220,BS_70,BS_70_11_AC.pickle,24,post late,NCR
+221,BS_70,BS_70_11_AC.pickle,32,post late,CR (enhanced)
+222,BS_70,BS_70_12_AC.pickle,5,post late,NCR
+223,BS_70,BS_70_12_AC.pickle,6,post late,NCR
+224,BS_70,BS_70_12_AC.pickle,19,post late,NCR
+225,BS_70,BS_70_12_AC.pickle,20,post late,NCR
+226,BS_70,BS_70_13_AC.pickle,18,post expert,CR (suppressed)
+227,BS_70,BS_70_1_AC.pickle,1,pre late,CR (suppressed)
+228,BS_70,BS_70_1_AC.pickle,2,pre late,NCR
+229,BS_70,BS_70_1_AC.pickle,13,pre late,CR (enhanced)
+230,BS_70,BS_70_1_AC.pickle,37,pre late,CR (suppressed)
+231,BS_70,BS_70_1_AC.pickle,66,pre late,NCR
+232,BS_70,BS_70_1_AC.pickle,69,pre late,CR (enhanced)
+233,BS_70,BS_70_1_AC.pickle,73,pre late,NCR
+234,BS_70,BS_70_1_AC.pickle,74,pre late,NCR
+235,BS_70,BS_70_1_AC.pickle,77,pre late,NCR
+236,BS_70,BS_70_1_AC.pickle,80,pre late,NCR
+237,BS_70,BS_70_1_AC.pickle,88,pre late,NCR
+238,BS_70,BS_70_1_AC.pickle,91,pre late,NCR
+239,BS_70,BS_70_1_AC.pickle,127,pre late,CR (suppressed)
+240,BS_70,BS_70_1_AC.pickle,141,pre late,NCR
+241,BS_70,BS_70_5_AC.pickle,0,post early,CR (suppressed)
+242,BS_70,BS_70_5_AC.pickle,10,post early,CR (enhanced)
+243,BS_70,BS_70_6_AC.pickle,37,post early,NCR
+244,BS_70,BS_70_6_AC.pickle,51,post early,NCR
+245,BS_70,BS_70_6_AC.pickle,68,post early,NCR
+246,BS_70,BS_70_7_AC.pickle,22,post late,CR (enhanced)
+247,BS_70,BS_70_7_AC.pickle,45,post late,CR (enhanced)
+248,BS_70,BS_70_8_AC.pickle,1,post late,NCR
+249,BS_70,BS_70_8_AC.pickle,18,post late,NCR
+250,BS_70,BS_70_8_AC.pickle,20,post late,CR (enhanced)
+251,BS_70,BS_70_8_AC.pickle,21,post late,CR (enhanced)
+252,BS_70,BS_70_8_AC.pickle,28,post late,NCR
+253,BS_70,BS_70_8_AC.pickle,36,post late,NCR
+254,BS_70,BS_70_8_AC.pickle,42,post late,NCR
+255,BS_70,BS_70_8_AC.pickle,48,post late,CR (enhanced)
+256,BS_70,BS_70_8_AC.pickle,52,post late,NCR
+257,BS_70,BS_70_9_AC.pickle,9,post late,NCR
+258,BS_70,BS_70_9_AC.pickle,41,post late,NCR
+259,BS_70,BS_70_9_AC.pickle,48,post late,CR (enhanced)
+260,BS_70,BS_70_9_AC.pickle,56,post late,CR (enhanced)
+261,BS_72,BS_72_10_AC.pickle,18,post late,CR (enhanced)
+262,BS_72,BS_72_13_AC.pickle,0,post late,NCR
+263,BS_72,BS_72_13_AC.pickle,6,post late,CR (suppressed)
+264,BS_72,BS_72_13_AC.pickle,10,post late,CR (suppressed)
+265,BS_72,BS_72_1_AC.pickle,0,pre expert,CR (enhanced)
+266,BS_72,BS_72_1_AC.pickle,5,pre expert,NCR
+267,BS_72,BS_72_1_AC.pickle,24,pre expert,NCR
+268,BS_72,BS_72_1_AC.pickle,30,pre expert,CR (enhanced)
+269,BS_72,BS_72_1_AC.pickle,38,pre expert,CR (suppressed)
+270,BS_72,BS_72_2_AC.pickle,1,pre expert,NCR
+271,BS_72,BS_72_2_AC.pickle,3,pre expert,CR (enhanced)
+272,BS_72,BS_72_2_AC.pickle,7,pre expert,CR (suppressed)
+273,BS_72,BS_72_2_AC.pickle,8,pre expert,NCR
+274,BS_72,BS_72_2_AC.pickle,17,pre expert,CR (suppressed)
+275,BS_72,BS_72_2_AC.pickle,19,pre expert,CR (enhanced)
+276,BS_72,BS_72_2_AC.pickle,26,pre expert,NCR
+277,BS_72,BS_72_2_AC.pickle,52,pre expert,CR (enhanced)
+278,BS_72,BS_72_4_AC.pickle,7,post early,NCR
+279,BS_72,BS_72_4_AC.pickle,12,post early,NCR
+280,BS_72,BS_72_4_AC.pickle,44,post early,CR (enhanced)
+281,BS_72,BS_72_4_AC.pickle,46,post early,CR (enhanced)
+282,BS_72,BS_72_4_AC.pickle,54,post early,CR (enhanced)
+283,BS_72,BS_72_4_AC.pickle,55,post early,CR (enhanced)
+284,BS_72,BS_72_4_AC.pickle,70,post early,CR (enhanced)
+285,BS_72,BS_72_4_AC.pickle,115,post early,CR (enhanced)
+286,BS_72,BS_72_5_AC.pickle,0,post late,NCR
+287,BS_72,BS_72_5_AC.pickle,10,post late,CR (enhanced)
+288,BS_72,BS_72_5_AC.pickle,36,post late,CR (enhanced)
+289,BS_72,BS_72_5_AC.pickle,42,post late,CR (enhanced)
+290,BS_72,BS_72_5_AC.pickle,54,post late,NCR
+291,BS_72,BS_72_6_AC.pickle,12,post late,NCR
+292,BS_72,BS_72_6_AC.pickle,13,post late,NCR
+293,BS_72,BS_72_6_AC.pickle,14,post late,CR (enhanced)
+294,BS_72,BS_72_6_AC.pickle,23,post late,CR (enhanced)
+295,BS_72,BS_72_6_AC.pickle,26,post late,CR (enhanced)
+296,BS_72,BS_72_6_AC.pickle,27,post late,CR (enhanced)
+297,BS_72,BS_72_6_AC.pickle,28,post late,NCR
+298,BS_72,BS_72_6_AC.pickle,31,post late,CR (enhanced)
+299,BS_72,BS_72_6_AC.pickle,32,post late,NCR
+300,BS_72,BS_72_6_AC.pickle,40,post late,CR (enhanced)
+301,BS_72,BS_72_6_AC.pickle,41,post late,CR (enhanced)
+302,BS_72,BS_72_6_AC.pickle,57,post late,CR (suppressed)
+303,BS_72,BS_72_6_AC.pickle,61,post late,CR (enhanced)
+304,BS_72,BS_72_6_AC.pickle,65,post late,NCR
+305,BS_72,BS_72_7_AC.pickle,12,post late,NCR
+306,BS_72,BS_72_7_AC.pickle,14,post late,CR (enhanced)
+307,BS_72,BS_72_7_AC.pickle,15,post late,CR (enhanced)
+308,BS_72,BS_72_7_AC.pickle,16,post late,CR (enhanced)
+309,BS_72,BS_72_7_AC.pickle,33,post late,CR (enhanced)
+310,BS_72,BS_72_8_AC.pickle,5,post late,CR (enhanced)
+311,BS_72,BS_72_8_AC.pickle,10,post late,CR (enhanced)
+312,BS_72,BS_72_8_AC.pickle,23,post late,CR (suppressed)
+313,BS_72,BS_72_9_AC.pickle,8,post late,CR (enhanced)
+314,BS_72,BS_72_9_AC.pickle,11,post late,CR (enhanced)
+315,BS_87,BS_87_10_AC.pickle,4,post expert,CR (enhanced)
+316,BS_87,BS_87_11_AC.pickle,1,post expert,NCR
+317,BS_87,BS_87_11_AC.pickle,4,post expert,CR (enhanced)
+318,BS_87,BS_87_1_AC.pickle,7,pre expert,NCR
+319,BS_87,BS_87_1_AC.pickle,12,pre expert,CR (enhanced)
+320,BS_87,BS_87_1_AC.pickle,30,pre expert,NCR
+321,BS_87,BS_87_1_AC.pickle,39,pre expert,CR (enhanced)
+322,BS_87,BS_87_2_AC.pickle,25,pre expert,CR (enhanced)
+323,BS_87,BS_87_4_AC.pickle,3,post early,CR (enhanced)
+324,BS_87,BS_87_4_AC.pickle,15,post early,CR (enhanced)
+325,BS_87,BS_87_4_AC.pickle,18,post early,CR (enhanced)
+326,BS_87,BS_87_4_AC.pickle,19,post early,NCR
+327,BS_87,BS_87_4_AC.pickle,26,post early,CR (enhanced)
+328,BS_87,BS_87_4_AC.pickle,27,post early,CR (enhanced)
+329,BS_87,BS_87_4_AC.pickle,33,post early,NCR
+330,BS_87,BS_87_4_AC.pickle,34,post early,CR (enhanced)
+331,BS_87,BS_87_4_AC.pickle,38,post early,CR (enhanced)
+332,BS_87,BS_87_4_AC.pickle,44,post early,CR (enhanced)
+333,BS_87,BS_87_4_AC.pickle,45,post early,CR (enhanced)
+334,BS_87,BS_87_4_AC.pickle,57,post early,CR (enhanced)
+335,BS_87,BS_87_4_AC.pickle,73,post early,CR (enhanced)
+336,BS_87,BS_87_4_AC.pickle,74,post early,CR (enhanced)
+337,BS_87,BS_87_4_AC.pickle,80,post early,CR (enhanced)
+338,BS_87,BS_87_4_AC.pickle,82,post early,CR (enhanced)
+339,BS_87,BS_87_4_AC.pickle,115,post early,CR (enhanced)
+340,BS_87,BS_87_4_AC.pickle,124,post early,NCR
+341,BS_87,BS_87_4_AC.pickle,141,post early,CR (enhanced)
+342,BS_87,BS_87_4_AC.pickle,162,post early,CR (enhanced)
+343,BS_87,BS_87_4_AC.pickle,172,post early,CR (enhanced)
+344,BS_87,BS_87_4_AC.pickle,187,post early,CR (enhanced)
+345,BS_87,BS_87_4_AC.pickle,211,post early,CR (enhanced)
+346,BS_87,BS_87_4_AC.pickle,219,post early,CR (enhanced)
+347,BS_87,BS_87_5_AC.pickle,7,post early,CR (enhanced)
+348,BS_87,BS_87_5_AC.pickle,11,post early,NCR
+349,BS_87,BS_87_5_AC.pickle,14,post early,CR (enhanced)
+350,BS_87,BS_87_5_AC.pickle,35,post early,CR (enhanced)
+351,BS_87,BS_87_5_AC.pickle,37,post early,NCR
+352,BS_87,BS_87_5_AC.pickle,47,post early,CR (enhanced)
+353,BS_87,BS_87_5_AC.pickle,49,post early,CR (enhanced)
+354,BS_87,BS_87_5_AC.pickle,83,post early,CR (enhanced)
+355,BS_87,BS_87_5_AC.pickle,87,post early,CR (enhanced)
+356,BS_87,BS_87_5_AC.pickle,93,post early,CR (enhanced)
+357,BS_87,BS_87_5_AC.pickle,99,post early,CR (enhanced)
+358,BS_87,BS_87_5_AC.pickle,101,post early,CR (enhanced)
+359,BS_87,BS_87_6_AC.pickle,44,post early,CR (enhanced)
+360,BS_87,BS_87_8_AC.pickle,1,post late,NCR
+361,BS_87,BS_87_8_AC.pickle,2,post late,NCR
+362,BS_87,BS_87_8_AC.pickle,11,post late,NCR
+363,BS_87,BS_87_8_AC.pickle,45,post late,CR (enhanced)
+364,BS_87,BS_87_8_AC.pickle,66,post late,NCR
+365,BS_87,BS_87_9_AC.pickle,3,post late,NCR
+366,BS_87,BS_87_9_AC.pickle,4,post late,NCR
+367,BS_87,BS_87_9_AC.pickle,6,post late,NCR
+368,BS_87,BS_87_9_AC.pickle,27,post late,NCR
+369,BS_87,BS_87_9_AC.pickle,46,post late,NCR
+370,BS_87,BS_87_9_AC.pickle,60,post late,NCR
+371,BS_87,BS_87_9_AC.pickle,87,post late,NCR
+372,BS_87,BS_87_9_AC.pickle,131,post late,NCR
+373,BS_87,BS_87_9_AC.pickle,135,post late,NCR
+374,DS_15,DS_15_14_AC.pickle,31,post expert,CR (enhanced)
+375,DS_15,DS_15_14_AC.pickle,36,post expert,CR (enhanced)
+376,DS_15,DS_15_14_AC.pickle,41,post expert,CR (enhanced)
+377,DS_15,DS_15_14_AC.pickle,44,post expert,CR (enhanced)
+378,DS_15,DS_15_14_AC.pickle,52,post expert,CR (enhanced)
+379,DS_15,DS_15_14_AC.pickle,58,post expert,CR (enhanced)
+380,DS_15,DS_15_14_AC.pickle,59,post expert,NCR
+381,DS_15,DS_15_14_AC.pickle,65,post expert,NCR
+382,DS_15,DS_15_14_AC.pickle,66,post expert,CR (enhanced)
+383,DS_15,DS_15_14_AC.pickle,73,post expert,NCR
+384,DS_15,DS_15_14_AC.pickle,84,post expert,NCR
+385,DS_15,DS_15_14_AC.pickle,114,post expert,CR (enhanced)
+386,DS_15,DS_15_14_AC.pickle,137,post expert,NCR
+387,DS_15,DS_15_14_AC.pickle,146,post expert,NCR
+388,DS_15,DS_15_15_AC.pickle,0,post expert,CR (enhanced)
+389,DS_15,DS_15_15_AC.pickle,6,post expert,CR (enhanced)
+390,DS_15,DS_15_15_AC.pickle,7,post expert,NCR
+391,DS_15,DS_15_15_AC.pickle,10,post expert,NCR
+392,DS_15,DS_15_15_AC.pickle,12,post expert,CR (enhanced)
+393,DS_15,DS_15_15_AC.pickle,28,post expert,NCR
+394,DS_15,DS_15_15_AC.pickle,29,post expert,NCR
+395,DS_15,DS_15_15_AC.pickle,36,post expert,CR (suppressed)
+396,DS_15,DS_15_15_AC.pickle,46,post expert,NCR
+397,DS_15,DS_15_15_AC.pickle,66,post expert,CR (enhanced)
+398,DS_15,DS_15_15_AC.pickle,78,post expert,CR (enhanced)
+399,DS_15,DS_15_15_AC.pickle,88,post expert,NCR
+400,DS_15,DS_15_15_AC.pickle,111,post expert,NCR
+401,DS_15,DS_15_15_AC.pickle,113,post expert,CR (enhanced)
+402,DS_15,DS_15_16_AC.pickle,17,post expert,NCR
+403,DS_15,DS_15_16_AC.pickle,23,post expert,CR (enhanced)
+404,DS_15,DS_15_16_AC.pickle,26,post expert,CR (enhanced)
+405,DS_15,DS_15_16_AC.pickle,27,post expert,CR (enhanced)
+406,DS_15,DS_15_16_AC.pickle,32,post expert,CR (suppressed)
+407,DS_15,DS_15_16_AC.pickle,35,post expert,NCR
+408,DS_15,DS_15_16_AC.pickle,38,post expert,NCR
+409,DS_15,DS_15_16_AC.pickle,40,post expert,NCR
+410,DS_15,DS_15_16_AC.pickle,48,post expert,CR (enhanced)
+411,DS_15,DS_15_16_AC.pickle,68,post expert,CR (enhanced)
+412,DS_15,DS_15_16_AC.pickle,69,post expert,CR (enhanced)
+413,DS_15,DS_15_16_AC.pickle,72,post expert,NCR
+414,DS_15,DS_15_16_AC.pickle,73,post expert,NCR
+415,DS_15,DS_15_16_AC.pickle,77,post expert,CR (enhanced)
+416,DS_15,DS_15_17_AC.pickle,0,post expert,NCR
+417,DS_15,DS_15_17_AC.pickle,15,post expert,CR (enhanced)
+418,DS_15,DS_15_17_AC.pickle,28,post expert,NCR
+419,DS_15,DS_15_17_AC.pickle,54,post expert,NCR
+420,DS_15,DS_15_1_AC.pickle,3,pre expert,CR (enhanced)
+421,DS_15,DS_15_1_AC.pickle,5,pre expert,CR (suppressed)
+422,DS_15,DS_15_1_AC.pickle,22,pre expert,CR (enhanced)
+423,DS_15,DS_15_1_AC.pickle,46,pre expert,CR (enhanced)
+424,DS_15,DS_15_1_AC.pickle,49,pre expert,CR (enhanced)
+425,DS_15,DS_15_1_AC.pickle,52,pre expert,NCR
+426,DS_15,DS_15_1_AC.pickle,59,pre expert,CR (suppressed)
+427,DS_15,DS_15_1_AC.pickle,81,pre expert,NCR
+428,DS_15,DS_15_1_AC.pickle,87,pre expert,CR (enhanced)
+429,DS_19,DS_19_18_AC.pickle,4,post expert,NCR
+430,DS_19,DS_19_18_AC.pickle,6,post expert,NCR
+431,DS_19,DS_19_18_AC.pickle,10,post expert,CR (enhanced)
+432,DS_19,DS_19_18_AC.pickle,30,post expert,NCR
+433,DS_19,DS_19_19_AC.pickle,2,post expert,CR (enhanced)
+434,DS_19,DS_19_19_AC.pickle,21,post expert,CR (enhanced)
+435,DS_19,DS_19_19_AC.pickle,27,post expert,NCR
+436,DS_19,DS_19_19_AC.pickle,38,post expert,NCR
+437,DS_19,DS_19_19_AC.pickle,42,post expert,CR (enhanced)
+438,DS_19,DS_19_19_AC.pickle,45,post expert,NCR
+439,DS_19,DS_19_1_AC.pickle,12,pre expert,NCR
+440,DS_19,DS_19_1_AC.pickle,14,pre expert,NCR
+441,DS_19,DS_19_1_AC.pickle,15,pre expert,NCR
+442,DS_19,DS_19_1_AC.pickle,41,pre expert,CR (enhanced)
+443,DS_19,DS_19_1_AC.pickle,68,pre expert,NCR
+444,DS_19,DS_19_1_AC.pickle,96,pre expert,NCR
+445,DS_19,DS_19_20_AC.pickle,7,post expert,CR (enhanced)
+446,DS_19,DS_19_20_AC.pickle,8,post expert,NCR
+447,DS_19,DS_19_20_AC.pickle,14,post expert,CR (enhanced)
