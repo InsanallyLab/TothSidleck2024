@@ -167,8 +167,11 @@ def calculateResponsivenessClusterInternal(sessionfile,clust,eLife_iterations=50
             # for increment_choice in range(numincrements_choice):
             windowstart = response_time - (sessionfile.meta.fs*50/1000)
             windowend = response_time + (sessionfile.meta.fs*50/1000)
+            windowend_pre_only = response_time
             modulationspikeidxs_choice = np.logical_and(      np.greater(trialtimes,windowstart) , np.less(trialtimes,windowend)     )
             modulationFR_choice[trialidx] = np.sum(modulationspikeidxs_choice) / (100/1000)
+            modulationspikeidxs_choice_pre_only = np.logical_and(      np.greater(trialtimes,windowstart) , np.less(trialtimes,windowend_pre_only)     )
+            modulationFR_choice_pre_only[trialidx] = np.sum(modulationspikeidxs_choice_pre_only) / (50/1000)
 
         #FRmodulation150 is an old calculation of stimulus-responsiveness.
         #We do not use it anymore as mice respond too fast for us to distinguish
@@ -189,6 +192,10 @@ def calculateResponsivenessClusterInternal(sessionfile,clust,eLife_iterations=50
         FR_choice = np.mean(modulationFR_choice)
         modulation_choice = np.mean(modulationFR_choice-baselineFR)
         absmodulation_choice = np.abs(modulation_choice)
+
+        FR_choice_pre_only = np.mean(modulationFR_choice_pre_only)
+        modulation_choice_pre_only = np.mean(modulationFR_choice_pre_only-baselineFR)
+        absmodulation_choice_pre_only = np.abs(modulation_choice_pre_only)
 
         #Calculate the index of maximum modulation. This is the point at which
         #we calculate the firing rate modulation
@@ -223,6 +230,7 @@ def calculateResponsivenessClusterInternal(sessionfile,clust,eLife_iterations=50
         #Save results to the dict to return up the execution stack -- Choice
         responsiveness[cond].FR_choice = FR_choice#[maxmodidx_choice]
         responsiveness[cond].FRmodulation_choice = absmodulation_choice#[maxmodidx_choice]
+        responsiveness[cond].FRmodulation_choice = absmodulation_choice_pre_only#[maxmodidx_choice_pre_only]
         responsiveness[cond].FRmodulationpertrial_choice = modulation_per_trial_choice
         # responsiveness[cond].peakstart_choice = maxmodidx_choice * slideincrement
         # responsiveness[cond].peakend_choice = responsiveness[cond].peakstart_choice + slidewindow
