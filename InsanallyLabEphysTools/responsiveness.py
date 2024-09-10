@@ -110,6 +110,7 @@ def calculateResponsivenessClusterInternal(sessionfile,clust,eLife_iterations=50
 
             responsiveness[cond].FR_choice = np.nan
             responsiveness[cond].FRmodulation_choice = np.nan
+            responsiveness[cond].FRmodulation_choice_pre_only = np.nan
             responsiveness[cond].FRmodulationpertrial_choice = np.nan
             responsiveness[cond].peakstart_choice = np.nan
             responsiveness[cond].peakend_choice = np.nan
@@ -134,7 +135,9 @@ def calculateResponsivenessClusterInternal(sessionfile,clust,eLife_iterations=50
         modulationFR = np.zeros((numtrials,numincrements))
         modulationFR.fill(np.nan)
         modulationFR_choice = np.zeros(numtrials)#np.zeros((numtrials,numincrements))
+        modulationFR_choice_pre_only = np.zeros(numtrials)#np.zeros((numtrials,numincrements))
         modulationFR_choice.fill(np.nan)
+        modulationFR_choice_pre_only.fill(np.nan)
         
         for trialidx,trial in enumerate(responsiveness[cond].trials):
             trialstart = sessionfile.trials.starts[trial]
@@ -230,7 +233,7 @@ def calculateResponsivenessClusterInternal(sessionfile,clust,eLife_iterations=50
         #Save results to the dict to return up the execution stack -- Choice
         responsiveness[cond].FR_choice = FR_choice#[maxmodidx_choice]
         responsiveness[cond].FRmodulation_choice = absmodulation_choice#[maxmodidx_choice]
-        responsiveness[cond].FRmodulation_choice = absmodulation_choice_pre_only#[maxmodidx_choice_pre_only]
+        responsiveness[cond].FRmodulation_choice_pre_only = absmodulation_choice_pre_only#[maxmodidx_choice_pre_only]
         responsiveness[cond].FRmodulationpertrial_choice = modulation_per_trial_choice
         # responsiveness[cond].peakstart_choice = maxmodidx_choice * slideincrement
         # responsiveness[cond].peakend_choice = responsiveness[cond].peakstart_choice + slidewindow

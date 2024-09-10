@@ -56,6 +56,7 @@ def getTrialSet(sessionfile,clust,listOfTrialSets,trialsPerDayLoaded=None):
     if trialsPerDayLoaded is None:
         try:
             #with open('/bgfs/balbanna/jmt195/trialsToUsePerDay', 'rb') as f:
+            # with open('..\\Data\\trialsToUsePerDay', 'rb') as f:
             with open('..\\..\\Data\\trialsToUsePerDay', 'rb') as f:
             # with open('Z:\\JMT Data Cache\\trialsToUsePerDay','rb') as f:
                 trialsPerDayLoaded = pickle.load(f)
@@ -94,14 +95,16 @@ def getTrialSet(sessionfile,clust,listOfTrialSets,trialsPerDayLoaded=None):
             response_times = np.array(sessionfile.trials.response) - np.array(sessionfile.trials.starts)
             response_times_go = response_times[sessionfile.trials.go]
             mean_response_time = np.mean(response_times_go)
-            slow_go_threshold = max(2*mean_response_time,0.5*sessionfile.meta.fs)
+            # slow_go_threshold = max(2*mean_response_time,0.5*sessionfile.meta.fs)
+            slow_go_threshold = 0.2*sessionfile.meta.fs
             slow_go_response = np.where(np.greater(response_times,slow_go_threshold))[0]
             trialsTrim = slow_go_response
         elif trialSet == 'fast_go':
             response_times = np.array(sessionfile.trials.response) - np.array(sessionfile.trials.starts)
             response_times_go = response_times[sessionfile.trials.go]
             mean_response_time = np.mean(response_times_go)
-            fast_go_threshold = max(2*mean_response_time,0.5*sessionfile.meta.fs)
+            # fast_go_threshold = max(2*mean_response_time,0.5*sessionfile.meta.fs)
+            fast_go_threshold = 0.2*sessionfile.meta.fs
             fast_go_response = np.where(np.less(response_times,fast_go_threshold))[0]
             fast_go_response = fast_go_response[np.isin(fast_go_response,trimmed_trials_active)]
             trialsTrim = fast_go_response
