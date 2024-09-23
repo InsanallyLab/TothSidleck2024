@@ -488,16 +488,14 @@ def calculateResponsiveness(directory,cachedDirectory='D:\\Analysis_Cache',repla
         #    continue
         # if animal in ['AE_229','AE_231']:
         #     continue
-        if not animal in ['DS_15']:
-            continue
+        # if not animal in ['DS_15']:
+        #     continue
 
         sessions = os.listdir(os.path.join(directory,animal))
         for session in sessions:
 
-            if not session in ['DS_15 15']:
-                continue
-
-            print('A')
+            # if not session in ['DS_15 15']:
+            #     continue)
 
             for region in ['AC','M2']:
 
@@ -511,7 +509,6 @@ def calculateResponsiveness(directory,cachedDirectory='D:\\Analysis_Cache',repla
                         sessionfile = loadSessionInitial(os.path.join(directory,animal),session,region)
                         #trim = trimSessionInternal(sessionfile)
                         responsiveness = calculateResponsivenessInternal(sessionfile,populationAvgLickResponseInSamples,verbose=verbose)
-                        print(responsiveness)
 
                         with open(os.path.join(directory,animal,session,region,'responsiveness.pickle'), 'wb') as f:
                             pickle.dump(responsiveness, f, protocol=pickle.HIGHEST_PROTOCOL)
