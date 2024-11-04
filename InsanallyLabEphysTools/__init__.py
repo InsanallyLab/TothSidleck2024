@@ -1,4 +1,4 @@
-from .io import loadSessionsComplete, loadSessionCached, generateSaveString
+from .io import loadSessionInitial,loadSessionsComplete, loadSessionCached, generateSaveString
 from .trimming import trimSessions
 from .responsiveness import calculateResponsiveness, calculateResponsivenessInternal, calculateTuningResponsiveness, calculateRampingClusterInternal,getListOfSessionsToCalculateResponsiveness,calculateResponsivenessBySession
 from .disqualification import disqualifyTrials, disqualifyISI, disqualifyFR
@@ -11,7 +11,7 @@ from .tuning import determineTuningCurveTones, testInOrderTonePresentation, iden
 from .statistics import nonparametricIndependentStatsAllToAll, nonparametricIndependentStatsCompareToPreearly, nonparametricIndependentStatsCompareToOwnEarly, nonparametricIndependentStatsCompareToOther, nonparametricIndependentStatsCompareToOtherSmall, nonparametricIndependentStatsCompareToPrevious, nonparametricIndependentStatsCompareToPreviousSmall, mannwhitneycompareall, mannwhitneycomparesmall, ttestindcompareall
 
 __all__ = [
-    'loadSessionsComplete', 'loadSessionCached','generateSaveString',
+    'loadSessionInitial','loadSessionsComplete', 'loadSessionCached','generateSaveString',
     'trimSessions',
     'calculateResponsiveness','calculateResponsivenessInternal','calculateTuningResponsiveness','calculateRampingClusterInternal','getListOfSessionsToCalculateResponsiveness','calculateResponsivenessBySession'
     'disqualifyTrials', 'disqualifyISI', 'disqualifyFR',
