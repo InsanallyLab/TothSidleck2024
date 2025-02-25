@@ -1052,6 +1052,9 @@ def exceptionsForSpecificBehaviorDays(animal,day):
     if animal == 'AE_367' and day == 2: #Experimentalist notes animal quit early
         trials = np.arange(0,92+64)
 
+    if animal == 'AE_359' and day == 7: #Experimentalist notes that animal achieved expert behavior in this range
+        trials = np.arange(246+100,246+100+100+48)
+
     return trials
 
 
@@ -1170,7 +1173,10 @@ def getAllBehavior(beh_directory):
         'AE_350':None,
         'AE_351':None,
         'AE_359':None,
-        
+
+        #Opsin steady state
+        'AE_368':None,
+        'AE_369':None,
     }
 
     cloudiness_start_day = {
