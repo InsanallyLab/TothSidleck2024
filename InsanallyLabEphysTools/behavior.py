@@ -1177,6 +1177,9 @@ def getAllBehavior(beh_directory):
         #Opsin steady state
         'AE_368':None,
         'AE_369':None,
+        #Post Opsin steady state
+        'AE_376':None,
+        'AE_379':None,
     }
 
     cloudiness_start_day = {

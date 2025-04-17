@@ -473,6 +473,10 @@ def loadSessionsComplete(directory,destination='D:\\Analysis_Cache',numsamples=5
     animals = os.listdir(directory)
     for animal in tqdm(animals):
 
+        # if not animal in ['AE_344','AE_346','AE_367','AE_350','AE_351','AE_359']:
+        #     continue
+        if not animal in ['AE_350','AE_351','AE_359']:
+            continue
         #if not animal in ['TH_217']:
         #    continue
         #if not animal in ['BS_173','BS_175','BS_187','BS_188','BS_213','BS_214']:
