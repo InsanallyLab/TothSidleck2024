@@ -1052,8 +1052,20 @@ def exceptionsForSpecificBehaviorDays(animal,day):
     if animal == 'AE_367' and day == 2: #Experimentalist notes animal quit early
         trials = np.arange(0,92+64)
 
-    if animal == 'AE_359' and day == 7: #Experimentalist notes that animal achieved expert behavior in this range
+
+    #Pre Opto Cotnrol Animals: Expert behavior was noted by experimentalist AE in these blocks. Early in session struggles with animal motivation (overlicking)
+    if animal == 'AE_350' and day == 9: #Experimentalist notes that animal achieved expert behavior in this range. Animal was not motivated until end of behavior.
+        trials = np.arange(201,201+100+100)
+    if animal == 'AE_350' and day == 10: #Experimentalist notes that animal achieved expert behavior in this range. Animal was not motivated until end of behavior.
+        trials = np.arange(250,250+100)
+    if animal == 'AE_351' and day == 8: #Experimentalist notes that animal achieved expert behavior in this range. Animal was not motivated until end of behavior.
+        trials = np.arange(260,260+100)
+    if animal == 'AE_351' and day == 9: #Experimentalist notes that animal achieved expert behavior in this range. Animal was not motivated until end of behavior.
+        trials = np.arange(236,236+100)
+    if animal == 'AE_359' and day == 7: #Experimentalist notes that animal achieved expert behavior in this range. Animal was not motivated until end of behavior.
         trials = np.arange(246+100,246+100+100+48)
+    if animal == 'AE_359' and day == 8: #Experimentalist notes that animal achieved expert behavior in this range. Animal was not motivated until end of behavior.
+        trials = np.arange(254,254+95)
 
     return trials
 
