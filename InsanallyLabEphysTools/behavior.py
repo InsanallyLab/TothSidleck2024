@@ -1177,6 +1177,7 @@ def getAllBehavior(beh_directory):
         'AE_301':None,
         'AE_312':None,
 
+        
         #Pre opsin
         'AE_344':None,
         'AE_346':None,
@@ -1186,12 +1187,21 @@ def getAllBehavior(beh_directory):
         'AE_351':None,
         'AE_359':None,
 
-        #Opsin steady state
+        #Pre Opsin steady state
         'AE_368':None,
         'AE_369':None,
+        'AE_389':None,
+        #Pre opsin steady control
+        # 'AE_363':None,
+                ###???
+        # 'AE_395':None,
+        
         #Post Opsin steady state
         'AE_376':None,
         'AE_379':None,
+        # 'AE_399':None,
+        #Post Opsin steady state control
+        # 'AE_391':None
     }
 
     cloudiness_start_day = {
