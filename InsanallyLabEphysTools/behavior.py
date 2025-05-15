@@ -946,9 +946,11 @@ def exceptionsForSpecificBehaviorDays(animal,day):
         trials = np.arange(331,331+48+52)
     if animal == 'BS_59' and day == 11:
         trials = np.arange(300+100+100,300+100+100+100+100)
+    # if animal == 'BS_59' and day == 18:
+    #    trials = np.arange(0,300+68)
     if animal == 'BS_59' and day == 18:
-       trials = np.arange(0,300+68)
-
+       trials = np.arange(25,387)  #This is the set of trials used for neural data analysis so they should be used for behavior plotting as well. It's the last expert day and it doesn't seem to actually change anything so this is just to make sure that the data is correctly presented.
+    
     if animal == 'BS_70' and day == 5:
         trials = np.arange(300,300+100+73)
 
@@ -1066,6 +1068,24 @@ def exceptionsForSpecificBehaviorDays(animal,day):
         trials = np.arange(246+100,246+100+100+48)
     if animal == 'AE_359' and day == 8: #Experimentalist notes that animal achieved expert behavior in this range. Animal was not motivated until end of behavior.
         trials = np.arange(254,254+95)
+
+    if animal == 'AE_363' and day == 3: #AE notes that the animal was *not* an expert during this session and provides the following trials of active behavior. Disclude blocks 2 and 3 low trial count.
+        trials = np.arange(0,266)
+
+    if animal == 'AE_368' and day == 7:
+        trials = np.arange(300+100,300+100+100+89) #AE notes animal was too thirsty at start of behavior and notes to only use last 189 trials
+    if animal == 'AE_389' and day == 10:
+        trials = np.arange(300,300+100+60) #AE notes animal was too thirsty at start of behavior and notes to only use last 160 trials
+
+    #376 day 9 AE notes not expert but automatic trimming notes expert
+
+    
+    if animal == 'AE_379' and day == 18:
+        trials = np.arange(300+100,300+100+100+100) #AE notes animal was too thirsty at start of behavior and notes to only use last 200 trials
+
+
+    if animal == 'AE_391' and day == 7:
+        trials = np.arange(260,260+73) #AE notes animal was too thirsty at start of behavior and notes to only use middle 73 trials.
 
     return trials
 
@@ -1192,16 +1212,16 @@ def getAllBehavior(beh_directory):
         'AE_369':None,
         'AE_389':None,
         #Pre opsin steady control
-        # 'AE_363':None,
+        'AE_363':None,
                 ###???
-        # 'AE_395':None,
+        'AE_395':None,
         
         #Post Opsin steady state
         'AE_376':None,
         'AE_379':None,
         # 'AE_399':None,
         #Post Opsin steady state control
-        # 'AE_391':None
+        'AE_391':None
     }
 
     cloudiness_start_day = {
@@ -1271,6 +1291,14 @@ def getAllSessions(animalnames,directory,donotinclude=[],mask=None,verbose=False
         animalBehavior.second_reversal = np.Inf
         animalBehavior.sessions = dict()
 
+        #Pipeline is not set up to handle animals which are switched without a switch session so here is a cut-out for some control animals which did not have that
+        if name == 'AE_376':
+            animalBehavior.reversal = 5
+        if name == 'AE_379':
+            animalBehavior.reversal = 7
+        if name == 'AE_391':
+            animalBehavior.reversal = 8
+        
         #Get all valid behavior files in the directory
         itemstoremove = []
         for item in diritems:
